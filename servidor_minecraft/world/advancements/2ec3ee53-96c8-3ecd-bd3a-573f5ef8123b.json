@@ -13823,6 +13823,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_saddle": "2025-07-19 06:20:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-19 06:09:49 +0000"
@@ -13919,6 +13925,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_bow": "2025-07-19 06:20:21 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/warrior_upgrade": {
     "criteria": {
       "has_sword": "2025-07-19 06:01:34 +0000"
@@ -13943,6 +13955,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2025-07-19 06:19:10 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/chef_upgrade": {
     "criteria": {
       "has_apple": "2025-07-19 06:01:33 +0000"
@@ -13952,6 +13970,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-07-19 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/fish_barrel": {
+    "criteria": {
+      "has_fish": "2025-07-19 06:19:10 +0000"
     },
     "done": true
   },
@@ -14030,6 +14054,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-07-19 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/fisherman_hat": {
+    "criteria": {
+      "has_fish": "2025-07-19 06:19:10 +0000"
     },
     "done": true
   },
