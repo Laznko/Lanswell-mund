@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:auto_smelting_upgrade|true", "sophisticatedstorage:stack_upgrade_omega_tier|true", "sophisticatedbackpacks:auto_blasting_upgrade|true"]
+
