@@ -14138,3 +14138,55 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [19Jul2025 04:53:18.005] [Server thread/DEBUG] [mixin/]: Mixing compat.carryon.MixinPickupHandler from numismatics-common.mixins.json into tschipp.carryon.common.carry.PickupHandler
 [19Jul2025 04:53:18.054] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [19Jul2025 04:53:18.054] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.elysium_api.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[19Jul2025 04:54:08.020] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@2ab40105 for service interface com.blamejared.clumps.platform.IEventHelper
+[19Jul2025 04:54:08.021] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@31643fa4 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[19Jul2025 04:55:34.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 04:55:34.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 04:56:52.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved wrongly!
+[19Jul2025 04:57:24.057] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[19Jul2025 04:57:24.058] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[19Jul2025 04:57:45.676] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 04:57:45.677] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-665.39, y=62.45, z=-1960.52], To: Drowned['Drowned'/47, l='ServerLevel[world]', x=-665.81, y=62.22, z=-1959.64]
+[19Jul2025 04:57:49.208] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 04:57:49.208] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-664.48, y=62.64, z=-1960.33], To: Drowned['Drowned'/47, l='ServerLevel[world]', x=-665.48, y=62.14, z=-1960.05]
+[19Jul2025 05:00:33.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 05:00:33.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 05:02:00.830] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:00.830] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-764.53, y=208.00, z=-1972.58], To: BabySkeletonEntity['Baby Skeleton'/1862, l='ServerLevel[world]', x=-763.43, y=208.00, z=-1971.57]
+[19Jul2025 05:02:00.833] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:00.833] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-764.53, y=208.00, z=-1972.58], To: NightmareStalkerEntity['Nightmare Stalker'/1800, l='ServerLevel[world]', x=-763.34, y=208.00, z=-1969.98]
+[19Jul2025 05:02:02.160] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:02.160] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-767.08, y=208.00, z=-1972.49], To: NightmareStalkerEntity['Nightmare Stalker'/1800, l='ServerLevel[world]', x=-765.45, y=208.00, z=-1972.53]
+[19Jul2025 05:02:02.739] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:02.739] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-767.81, y=208.00, z=-1972.31], To: NightmareStalkerEntity['Nightmare Stalker'/1800, l='ServerLevel[world]', x=-766.43, y=208.00, z=-1972.53]
+[19Jul2025 05:02:04.363] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:04.364] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-771.78, y=208.00, z=-1970.45], To: NightmareStalkerEntity['Nightmare Stalker'/1800, l='ServerLevel[world]', x=-770.26, y=208.00, z=-1972.47]
+[19Jul2025 05:02:04.365] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:04.365] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-771.78, y=208.00, z=-1970.45], To: TheswarmerEntity['The Swarmer'/1496, l='ServerLevel[world]', x=-769.63, y=208.00, z=-1972.50]
+[19Jul2025 05:02:05.877] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:05.877] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-774.27, y=208.00, z=-1968.99], To: TheswarmerEntity['The Swarmer'/1496, l='ServerLevel[world]', x=-773.00, y=208.00, z=-1970.00]
+[19Jul2025 05:02:07.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:07.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-776.72, y=208.00, z=-1968.24], To: NightmareStalkerEntity['Nightmare Stalker'/1800, l='ServerLevel[world]', x=-774.49, y=208.00, z=-1968.27]
+[19Jul2025 05:02:08.359] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:02:08.360] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-778.02, y=208.00, z=-1966.91], To: NightmareStalkerEntity['Nightmare Stalker'/1800, l='ServerLevel[world]', x=-776.15, y=209.00, z=-1966.86]
+[19Jul2025 05:02:11.492] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[19Jul2025 05:02:43.382] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:04:03.361] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:04:08.359] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:04:21.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:04:23.373] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:04:23.373] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-773.28, y=200.00, z=-1982.42], To: DragonflyEntity['Dragonfly'/2691, l='ServerLevel[world]', x=-772.49, y=200.85, z=-1984.49]
+[19Jul2025 05:04:43.361] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:04:54.360] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:05:03.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:05:08.208] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:05:08.208] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-768.36, y=211.11, z=-1968.69], To: DragonflyEntity['Dragonfly'/263, l='ServerLevel[world]', x=-766.95, y=213.10, z=-1967.95]
+[19Jul2025 05:05:27.366] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:05:28.363] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:05:33.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 05:05:33.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 05:05:33.542] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:05:40.316] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 05:05:40.316] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-760.73, y=214.00, z=-1986.60], To: DragonflyEntity['Dragonfly'/241, l='ServerLevel[world]', x=-758.50, y=213.10, z=-1984.95]
+[19Jul2025 05:05:45.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[19Jul2025 05:05:47.356] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
