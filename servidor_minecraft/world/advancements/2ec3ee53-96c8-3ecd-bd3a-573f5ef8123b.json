@@ -13823,9 +13823,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/cannonball": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_seed_bowl": {
     "criteria": {
       "has_seeds": "2025-07-19 06:01:34 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_energy_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-19 06:06:25 +0000"
     },
     "done": true
   },
@@ -13835,9 +13853,69 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/cannon": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "hamsters:recipes/hamster_wheel": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-19 06:07:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_water_bottle": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:10:53 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/jack_o_ratern": {
     "criteria": {
       "has_torch": "2025-07-19 06:01:34 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/halo_hat": {
+    "criteria": {
+      "has_ingot": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/angel_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_lapis": "2025-07-19 06:10:35 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_quarry": {
+    "criteria": {
+      "has_diamond": "2025-07-19 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/anchor": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/crossbow_upgrade": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:06:25 +0000"
     },
     "done": true
   },
@@ -13847,9 +13925,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 06:09:49 +0000"
+    },
+    "done": true
+  },
   "rats:root": {
     "criteria": {
       "tick": "2025-07-19 06:01:34 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_whistle": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:06:25 +0000"
     },
     "done": true
   },
@@ -13859,9 +13949,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 06:09:49 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
     "criteria": {
       "has_seeds": "2025-07-19 06:01:34 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/decorations/rat_trap": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:06:25 +0000"
     },
     "done": true
   },
@@ -13883,6 +13985,24 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/platter_upgrade": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_flute": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:10:53 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/bucket_upgrade": {
     "criteria": {
       "has_bucket": "2025-07-19 06:01:34 +0000"
@@ -13895,15 +14015,69 @@
     },
     "done": true
   },
+  "rats:recipes/tools/rat_capture_net": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-07-19 06:09:49 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/jury_rigged_upgrade": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:09:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/golem_mount_upgrade": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:09:01 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/carrat_upgrade": {
     "criteria": {
       "has_garrot": "2025-07-19 06:01:33 +0000"
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/cleat": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/purifying_liquid": {
+    "criteria": {
+      "has_diamond": "2025-07-19 06:10:05 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/dj_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-19 06:10:05 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/aristocrat_upgrade": {
     "criteria": {
       "has_carrot": "2025-07-19 06:01:33 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/big_bucket_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-19 06:10:05 +0000"
     },
     "done": true
   },
@@ -13919,6 +14093,30 @@
     },
     "done": true
   },
+  "rats:recipes/misc/golden_rat_skull": {
+    "criteria": {
+      "has_gold": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/oarlock": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_wheel": {
+    "criteria": {
+      "has_iron": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-19 06:10:14 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/replanter_upgrade": {
     "criteria": {
       "has_seeds": "2025-07-19 06:01:34 +0000"
@@ -13928,6 +14126,24 @@
   "rats:recipes/misc/upgrades/damage_protection_upgrade": {
     "criteria": {
       "has_apple": "2025-07-19 06:01:33 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/trash_can": {
+    "criteria": {
+      "has_ingot": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_cage": {
+    "criteria": {
+      "has_ingot": "2025-07-19 06:06:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/advanced_energy_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-19 06:06:25 +0000"
     },
     "done": true
   },
