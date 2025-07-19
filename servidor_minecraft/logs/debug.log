@@ -15263,3 +15263,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [19Jul2025 06:31:03.992] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
 [19Jul2025 06:35:43.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jul2025 06:35:43.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 06:40:43.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 06:40:43.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 06:45:43.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 06:45:43.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 06:47:51.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 06:47:51.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-695.74, y=63.00, z=-1942.55], To: DecayingZombieEntity['Decaying Zombie'/6578, l='ServerLevel[world]', x=-695.50, y=60.00, z=-1943.42]
+[19Jul2025 06:47:51.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 06:47:51.755] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-696.09, y=63.00, z=-1943.34], To: DecayingZombieEntity['Decaying Zombie'/6578, l='ServerLevel[world]', x=-695.07, y=61.67, z=-1945.18]
+[19Jul2025 06:47:53.404] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 06:47:53.404] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-696.27, y=63.00, z=-1944.48], To: DecrepitSkeletonEntity['Decrepit Skeleton'/7010, l='ServerLevel[world]', x=-695.50, y=60.32, z=-1945.50]
+[19Jul2025 06:48:03.196] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[19Jul2025 06:48:03.197] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-695.75, y=63.00, z=-1943.62], To: DecrepitSkeletonEntity['Decrepit Skeleton'/7010, l='ServerLevel[world]', x=-695.37, y=60.09, z=-1944.04]
