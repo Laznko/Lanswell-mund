@@ -14298,3 +14298,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [20Jul2025 03:48:55.053] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-698.54, y=65.63, z=-1888.03], To: Zombie['Zombie'/4957, l='ServerLevel[world]', x=-698.06, y=64.00, z=-1890.99]
 [20Jul2025 03:48:56.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
 [20Jul2025 03:48:56.153] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-697.42, y=64.36, z=-1889.40], To: MaggotEntity['Corpse Maggot'/4977, l='ServerLevel[world]', x=-697.48, y=64.00, z=-1890.49]
+[20Jul2025 03:50:04.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 03:50:04.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 03:51:50.700] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[20Jul2025 03:51:50.700] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-701.50, y=63.00, z=-1887.97], To: Zombie['Zombie'/5360, l='ServerLevel[world]', x=-700.51, y=63.77, z=-1888.49] [19.511488]
+[20Jul2025 03:51:50.700] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[20Jul2025 03:51:51.400] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[20Jul2025 03:51:51.401] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-702.35, y=63.00, z=-1887.53], To: Zombie['Zombie'/5360, l='ServerLevel[world]', x=-701.43, y=63.00, z=-1887.57] [19.022976]
+[20Jul2025 03:51:51.401] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[20Jul2025 03:51:53.158] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[20Jul2025 03:51:53.158] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-698.53, y=63.17, z=-1886.68], To: Zombie['Zombie'/5360, l='ServerLevel[world]', x=-700.93, y=63.00, z=-1887.80]
+[20Jul2025 03:55:04.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 03:55:04.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 03:57:58.280] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[20Jul2025 03:57:58.280] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-702.11, y=63.00, z=-1888.02], To: ZombieBruiserEntity['Zombie Bruiser'/5235, l='ServerLevel[world]', x=-700.38, y=62.00, z=-1886.50]
+[20Jul2025 03:57:58.880] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[20Jul2025 03:57:58.881] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-702.11, y=63.00, z=-1888.02], To: ZombieBruiserEntity['Zombie Bruiser'/5235, l='ServerLevel[world]', x=-699.74, y=62.55, z=-1886.08]
+[20Jul2025 03:58:01.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[20Jul2025 03:58:01.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-701.35, y=63.00, z=-1887.97], To: ZombieBruiserEntity['Zombie Bruiser'/5235, l='ServerLevel[world]', x=-699.69, y=62.00, z=-1885.69]
+[20Jul2025 03:58:03.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[20Jul2025 03:58:03.134] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-700.28, y=63.00, z=-1887.46], To: ZombieBruiserEntity['Zombie Bruiser'/5235, l='ServerLevel[world]', x=-699.53, y=62.11, z=-1885.48]
