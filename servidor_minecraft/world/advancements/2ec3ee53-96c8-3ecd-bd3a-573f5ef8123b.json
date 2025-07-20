@@ -32,6 +32,7 @@
       "minecraft:birch_forest": "2025-06-09 21:55:40 +0000",
       "minecraft:savanna_plateau": "2025-06-12 16:17:29 +0000",
       "minecraft:beach": "2025-06-09 22:20:49 +0000",
+      "minecraft:dark_forest": "2025-07-20 05:09:59 +0000",
       "minecraft:river": "2025-06-09 22:00:44 +0000",
       "minecraft:lukewarm_ocean": "2025-06-09 23:15:35 +0000",
       "minecraft:stony_shore": "2025-06-12 16:05:35 +0000",
@@ -14405,6 +14406,12 @@
     },
     "done": true
   },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2025-07-20 05:16:13 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/herb_bundle": {
     "criteria": {
       "has_flower": "2025-07-20 03:28:32 +0000"
@@ -14450,6 +14457,12 @@
   "aquaculture:recipes/combat/neptunium_bow": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-07-20 05:18:16 +0000"
     },
     "done": true
   },
