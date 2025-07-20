@@ -14365,6 +14365,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_eye": "2025-07-20 05:48:14 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/combat/neptunium_sword": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
@@ -14398,6 +14404,12 @@
   "aquaculture:recipes/tools/neptunium_fishing_rod": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-07-20 05:50:00 +0000"
     },
     "done": true
   },
@@ -14503,6 +14515,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-20 05:46:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-07-20 05:46:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2025-07-20 05:24:43 +0000"
@@ -14524,6 +14548,12 @@
   "aquaculture:recipes/aquaculture/neptunes_bounty": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-07-20 05:46:51 +0000"
     },
     "done": true
   },
@@ -14554,6 +14584,18 @@
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2025-07-20 05:24:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-07-20 05:46:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-07-20 05:46:51 +0000"
     },
     "done": true
   },
