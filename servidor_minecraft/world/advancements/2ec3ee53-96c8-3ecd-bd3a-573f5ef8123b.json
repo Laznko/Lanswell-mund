@@ -14357,15 +14357,105 @@
     },
     "done": true
   },
+  "aquaculture:recipes/combat/neptunium_helmet": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/combat/neptunium_sword": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/chef/little_black_squash_balls": {
+    "criteria": {
+      "has_input": "2025-07-20 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/neptunium_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/neptunium_fishing_rod": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
   "rats:plague_doctor": {
     "criteria": {
       "meet_doctor": "2025-07-20 04:00:14 +0000"
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/christmas_upgrade": {
+    "criteria": {
+      "has_coal": "2025-07-20 04:29:35 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/herb_bundle": {
     "criteria": {
       "has_flower": "2025-07-20 03:28:32 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/neptunium_hoe": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/neptunium_shovel": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/neptunium_pickaxe": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/combat/neptunium_chestplate": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/combat/neptunium_boots": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/combat/neptunium_leggings": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/combat/neptunium_bow": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/neptunes_bounty": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/neptunium_axe": {
+    "criteria": {
+      "has_items": "2025-07-20 04:30:08 +0000"
     },
     "done": true
   },
