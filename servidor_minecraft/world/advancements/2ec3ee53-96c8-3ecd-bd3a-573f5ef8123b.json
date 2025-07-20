@@ -14393,6 +14393,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/tnt_upgrade": {
+    "criteria": {
+      "has_gunpowder": "2025-07-20 05:02:11 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/christmas_upgrade": {
     "criteria": {
       "has_coal": "2025-07-20 04:29:35 +0000"
