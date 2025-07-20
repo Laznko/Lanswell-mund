@@ -2240,3 +2240,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [20Jul2025 03:20:24.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
 [20Jul2025 03:20:24.432] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
 [20Jul2025 03:20:26.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[20Jul2025 04:25:49.545] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[20Jul2025 04:25:49.545] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
