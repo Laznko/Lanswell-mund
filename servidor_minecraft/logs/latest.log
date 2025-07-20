@@ -2290,3 +2290,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [20Jul2025 05:27:09.456] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
 [20Jul2025 05:27:09.456] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
 [20Jul2025 05:28:17.720] [Worker-Main-127/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[20Jul2025 05:31:29.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Ant-Agonizer]
+[20Jul2025 05:31:30.654] [Worker-Main-119/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Jul2025 05:31:30.654] [Worker-Main-119/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Jul2025 05:31:39.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Ant Farm]
+[20Jul2025 05:33:31.682] [Worker-Main-122/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-5332, y=-2, z=-375}
+[20Jul2025 05:33:31.683] [Worker-Main-122/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-5331, y=2, z=-371}
+[20Jul2025 05:36:50.415] [Worker-Main-100/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[20Jul2025 05:39:43.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Praise the Sun]

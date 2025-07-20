@@ -46,6 +46,7 @@
       "minecraft:forest": "2025-06-09 21:27:02 +0000",
       "minecraft:lush_caves": "2025-06-09 22:56:50 +0000",
       "minecraft:frozen_ocean": "2025-07-12 05:31:09 +0000",
+      "minecraft:windswept_forest": "2025-07-20 05:36:52 +0000",
       "minecraft:jungle": "2025-06-09 22:38:59 +0000",
       "minecraft:ocean": "2025-06-09 22:57:11 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-12 05:32:23 +0000",
@@ -14424,6 +14425,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-07-20 05:31:29 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/herb_bundle": {
     "criteria": {
       "has_flower": "2025-07-20 03:28:32 +0000"
@@ -14466,9 +14473,21 @@
     },
     "done": true
   },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_feather": "2025-07-20 05:38:30 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/combat/neptunium_boots": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-20 05:39:43 +0000"
     },
     "done": true
   },
@@ -14496,6 +14515,12 @@
     },
     "done": true
   },
+  "rats:recipes/combat/piper_hat": {
+    "criteria": {
+      "has_feather": "2025-07-20 05:38:30 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/neptunes_bounty": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
@@ -14511,6 +14536,12 @@
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2025-07-20 05:24:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-07-20 05:31:39 +0000"
     },
     "done": true
   },
