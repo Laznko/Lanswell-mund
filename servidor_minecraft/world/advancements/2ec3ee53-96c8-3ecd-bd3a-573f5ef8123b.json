@@ -14357,6 +14357,12 @@
     },
     "done": true
   },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2025-07-20 04:00:14 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/herb_bundle": {
     "criteria": {
       "has_flower": "2025-07-20 03:28:32 +0000"

@@ -14318,3 +14318,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [20Jul2025 03:58:01.532] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-701.35, y=63.00, z=-1887.97], To: ZombieBruiserEntity['Zombie Bruiser'/5235, l='ServerLevel[world]', x=-699.69, y=62.00, z=-1885.69]
 [20Jul2025 03:58:03.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
 [20Jul2025 03:58:03.134] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-700.28, y=63.00, z=-1887.46], To: ZombieBruiserEntity['Zombie Bruiser'/5235, l='ServerLevel[world]', x=-699.53, y=62.11, z=-1885.48]
+[20Jul2025 04:00:04.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 04:00:04.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 04:05:04.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 04:05:04.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
