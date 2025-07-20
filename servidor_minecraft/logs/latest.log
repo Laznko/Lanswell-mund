@@ -2277,3 +2277,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [20Jul2025 05:11:57.006] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [20Jul2025 05:11:57.006] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [20Jul2025 05:18:16.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Fruits of the Field]
+[20Jul2025 05:22:28.758] [Worker-Main-101/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[20Jul2025 05:22:28.759] [Worker-Main-101/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[20Jul2025 05:22:33.636] [Worker-Main-121/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[20Jul2025 05:23:41.199] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30130, l='ServerLevel[world]', x=-3470.80, y=78.00, z=-1046.85] died, message: 'Unemployed hit the ground too hard whilst trying to escape The Rod'
+[20Jul2025 05:24:18.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Flowers of the Savanna]
+[20Jul2025 05:25:23.848] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/30417, l='ServerLevel[world]', x=-3572.36, y=53.89, z=-959.40] died: Sargent the Soaked was slain by Lance
+[20Jul2025 05:26:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Jaws]
+[20Jul2025 05:27:09.456] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[20Jul2025 05:27:09.456] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[20Jul2025 05:27:09.456] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[20Jul2025 05:27:09.456] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[20Jul2025 05:27:09.456] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[20Jul2025 05:28:17.720] [Worker-Main-127/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop

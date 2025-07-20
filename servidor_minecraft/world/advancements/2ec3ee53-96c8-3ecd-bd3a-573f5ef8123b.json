@@ -14382,6 +14382,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-07-20 05:26:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-20 05:24:43 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/neptunium_fishing_rod": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
@@ -14436,9 +14448,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-07-20 05:24:18 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/combat/neptunium_chestplate": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-20 05:24:18 +0000"
     },
     "done": true
   },
@@ -14460,6 +14484,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-07-20 05:24:43 +0000"
+    },
+    "done": true
+  },
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2025-07-20 05:18:16 +0000"
@@ -14469,6 +14499,30 @@
   "aquaculture:recipes/aquaculture/neptunes_bounty": {
     "criteria": {
       "has_items": "2025-07-20 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-20 05:24:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-20 05:24:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-20 05:24:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-20 05:24:43 +0000"
     },
     "done": true
   },
