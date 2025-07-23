@@ -2603,3 +2603,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Jul2025 06:51:36.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! -2.0496221645425976,-17.0,-1.3717848853553392
 [23Jul2025 06:52:48.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 9.623585343878403,0.7617784631121832,-7.717765590090892
 [23Jul2025 06:52:50.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [A Multidimensional Predator]
+[23Jul2025 06:57:58.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved wrongly!
+[23Jul2025 06:59:08.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Smoke On The Water]
