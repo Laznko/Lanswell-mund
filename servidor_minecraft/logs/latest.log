@@ -2606,3 +2606,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Jul2025 06:57:58.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved wrongly!
 [23Jul2025 06:59:08.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Smoke On The Water]
 [23Jul2025 07:05:39.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! -1.5256617108270802,10.980536512332648,-0.6836068798711068
+[23Jul2025 07:23:26.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10959, l='ServerLevel[world]', x=-693.51, y=172.00, z=-2055.07] died, message: 'Unemployed was slain by Decaying Zombie'
