@@ -14654,6 +14654,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-23 06:42:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2025-07-23 06:27:32 +0000"
@@ -14666,9 +14672,27 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/remedy_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-07-23 06:43:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-07-23 06:27:32 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-07-23 06:47:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-23 06:42:54 +0000"
     },
     "done": true
   },
@@ -14696,15 +14720,45 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/support_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-07-23 06:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-23 06:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-07-23 06:38:22 +0000"
     },
     "done": true
   },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-23 06:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-23 06:38:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-23 06:42:47 +0000"
+    },
+    "done": true
+  },
+  "dungeonsdelight:recipes/misc/monster_pot": {
+    "criteria": {
+      "has_cooking_pot": "2025-07-23 06:40:46 +0000"
     },
     "done": true
   },
@@ -14723,6 +14777,12 @@
   "rats:recipes/misc/upgrades/idol_upgrade": {
     "criteria": {
       "has_gold": "2025-07-23 06:31:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-23 06:42:54 +0000"
     },
     "done": true
   },
