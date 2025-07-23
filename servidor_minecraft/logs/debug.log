@@ -15653,3 +15653,81 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Jul2025 07:03:42.018] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
 [23Jul2025 07:03:42.018] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7645.94, y=69.00, z=111.73], To: Skeleton['Skeleton'/4388, l='ServerLevel[world]', x=-7646.69, y=69.00, z=113.97] [59.818966]
 [23Jul2025 07:03:42.018] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[23Jul2025 07:03:44.382] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:03:44.382] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7646.50, y=69.00, z=111.63], To: Skeleton['Skeleton'/4388, l='ServerLevel[world]', x=-7646.13, y=69.00, z=114.30]
+[23Jul2025 07:03:44.983] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:03:44.983] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7647.24, y=69.00, z=113.14], To: Skeleton['Skeleton'/4388, l='ServerLevel[world]', x=-7646.58, y=69.00, z=113.94]
+[23Jul2025 07:04:04.624] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:04.624] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7645.59, y=69.00, z=114.84], To: Skeleton['Skeleton'/9981, l='ServerLevel[world]', x=-7647.40, y=69.00, z=113.96]
+[23Jul2025 07:04:04.627] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:04.627] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7645.59, y=69.00, z=114.84], To: Silverfish['Silverfish'/9982, l='ServerLevel[world]', x=-7647.40, y=70.59, z=113.96]
+[23Jul2025 07:04:26.016] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:26.016] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7661.43, y=70.00, z=111.09], To: Skeleton['Skeleton'/9984, l='ServerLevel[world]', x=-7661.54, y=70.00, z=111.50]
+[23Jul2025 07:04:35.425] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:35.425] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7652.79, y=66.00, z=112.40], To: Skeleton['Skeleton'/10114, l='ServerLevel[world]', x=-7651.85, y=66.00, z=112.51]
+[23Jul2025 07:04:35.428] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:35.428] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7652.79, y=66.00, z=112.40], To: Silverfish['Silverfish'/10115, l='ServerLevel[world]', x=-7651.85, y=67.59, z=112.51]
+[23Jul2025 07:04:39.158] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jul2025 07:04:39.158] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7652.52, y=66.00, z=112.52], To: Silverfish['Silverfish'/9985, l='ServerLevel[world]', x=-7651.65, y=66.00, z=112.67] [6.825]
+[23Jul2025 07:04:39.158] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.175
+[23Jul2025 07:04:40.679] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:40.679] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7656.68, y=66.00, z=112.68], To: Skeleton['Skeleton'/10044, l='ServerLevel[world]', x=-7657.83, y=66.00, z=112.50]
+[23Jul2025 07:04:40.682] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:40.682] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7656.68, y=66.00, z=112.68], To: Silverfish['Silverfish'/10045, l='ServerLevel[world]', x=-7657.83, y=67.59, z=112.50]
+[23Jul2025 07:04:42.820] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:42.821] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7660.63, y=66.00, z=112.42], To: Skeleton['Skeleton'/10204, l='ServerLevel[world]', x=-7662.30, y=66.00, z=113.49]
+[23Jul2025 07:04:42.823] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:42.823] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7660.63, y=66.00, z=112.42], To: Silverfish['Silverfish'/10205, l='ServerLevel[world]', x=-7662.30, y=67.59, z=113.49]
+[23Jul2025 07:04:44.115] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:44.115] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7662.00, y=66.00, z=112.57], To: Silverfish['Silverfish'/9985, l='ServerLevel[world]', x=-7660.76, y=66.00, z=112.50]
+[23Jul2025 07:04:49.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 07:04:49.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 07:04:49.587] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:49.587] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7660.27, y=63.00, z=114.65], To: Skeleton['Skeleton'/10268, l='ServerLevel[world]', x=-7658.51, y=63.00, z=114.43]
+[23Jul2025 07:04:49.588] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:49.588] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7660.27, y=63.00, z=114.65], To: Silverfish['Silverfish'/10269, l='ServerLevel[world]', x=-7658.51, y=64.59, z=114.43]
+[23Jul2025 07:04:49.590] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:49.590] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7660.27, y=63.00, z=114.65], To: Silverfish['Silverfish'/10270, l='ServerLevel[world]', x=-7658.51, y=64.92, z=114.43]
+[23Jul2025 07:04:49.975] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:04:49.976] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7660.41, y=63.00, z=114.70], To: Skeleton['Skeleton'/10268, l='ServerLevel[world]', x=-7658.30, y=63.00, z=114.01]
+[23Jul2025 07:05:04.859] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jul2025 07:05:04.859] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7656.27, y=63.00, z=113.94], To: Skeleton['Skeleton'/10141, l='ServerLevel[world]', x=-7655.99, y=61.75, z=113.67] [52.735294]
+[23Jul2025 07:05:04.859] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.1499999
+[23Jul2025 07:05:05.120] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:05:05.120] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7656.27, y=63.00, z=114.29], To: Skeleton['Skeleton'/10141, l='ServerLevel[world]', x=-7657.17, y=61.75, z=114.52]
+[23Jul2025 07:05:05.121] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:05:05.121] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7656.27, y=63.00, z=114.29], To: Dolphin['Dolphin'/10140, l='ServerLevel[world]', x=-7657.17, y=61.90, z=114.52]
+[23Jul2025 07:05:39.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! -1.5256617108270802,10.980536512332648,-0.6836068798711068
+[23Jul2025 07:05:58.118] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jul2025 07:05:58.118] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7656.12, y=102.00, z=114.74], To: Skeleton['Skeleton'/4358, l='ServerLevel[world]', x=-7666.50, y=95.00, z=112.50] [19.5625]
+[23Jul2025 07:05:58.118] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[23Jul2025 07:06:03.216] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:06:03.216] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7668.61, y=96.24, z=115.47], To: Skeleton['Skeleton'/4356, l='ServerLevel[world]', x=-7668.50, y=95.00, z=114.50]
+[23Jul2025 07:06:03.816] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:06:03.816] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7668.39, y=96.00, z=114.93], To: Skeleton['Skeleton'/4357, l='ServerLevel[world]', x=-7668.50, y=95.00, z=112.50]
+[23Jul2025 07:06:04.473] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:06:04.473] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-7668.30, y=95.00, z=112.61], To: Skeleton['Skeleton'/4358, l='ServerLevel[world]', x=-7666.50, y=95.00, z=112.50]
+[23Jul2025 07:07:13.273] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:07:51.259] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:07:52.268] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:09:22.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:09:23.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:09:49.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 07:09:49.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 07:09:56.267] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:10:00.263] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:10:02.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:10:12.274] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:10:14.267] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:10:18.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:10:21.267] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:10:25.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:10:59.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:11:06.263] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:11:13.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:11:15.271] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:13:09.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 07:13:28.215] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:13:28.215] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-773.39, y=200.00, z=-2056.39], To: ButterflyBewitcherGiantEntity['Butterfly Bewitcher Giant'/10957, l='ServerLevel[world]', x=-772.71, y=200.51, z=-2054.88]
+[23Jul2025 07:13:40.964] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 07:13:40.964] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-770.20, y=200.00, z=-2051.77], To: ButterflyBewitcherGiantEntity['Butterfly Bewitcher Giant'/10957, l='ServerLevel[world]', x=-769.13, y=200.08, z=-2050.08]

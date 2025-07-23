@@ -14798,6 +14798,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/milker_upgrade": {
+    "criteria": {
+      "has_beef": "2025-07-23 07:00:32 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/idol_upgrade": {
     "criteria": {
       "has_gold": "2025-07-23 06:31:50 +0000"
