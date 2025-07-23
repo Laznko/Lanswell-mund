@@ -14660,9 +14660,33 @@
     },
     "done": true
   },
+  "rats:recipes/food/rat_burger": {
+    "criteria": {
+      "has_bread": "2025-07-23 06:33:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-07-23 06:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-23 06:39:12 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/crimson_liquid": {
+    "criteria": {
+      "has_fungus": "2025-07-23 06:38:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/pickpocket_upgrade": {
+    "criteria": {
+      "has_emerald_block": "2025-07-23 06:31:50 +0000"
     },
     "done": true
   },
@@ -14672,9 +14696,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-23 06:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-23 06:38:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_leggings": {
     "criteria": {
       "has_item": "2025-07-23 06:27:32 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/health_upgrade": {
+    "criteria": {
+      "has_bread": "2025-07-23 06:33:15 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/idol_upgrade": {
+    "criteria": {
+      "has_gold": "2025-07-23 06:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-23 06:33:16 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/cocoa_fudge": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-23 06:38:22 +0000"
     },
     "done": true
   },

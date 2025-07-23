@@ -15116,3 +15116,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Jul2025 06:32:24.292] [Server thread/DEBUG] [mixin/]: Mixing StackedContentsRecipePickerAccessor from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
 [23Jul2025 06:32:33.375] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [23Jul2025 06:32:34.373] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 06:33:02.369] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 06:33:17.368] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 06:34:49.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 06:34:49.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 06:36:03.391] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[23Jul2025 06:38:00.613] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jul2025 06:38:00.614] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-773.37, y=208.00, z=-1974.03], To: Zombie['Zombie'/3060, l='ServerLevel[world]', x=-773.50, y=208.00, z=-1974.62] [11.5625]
+[23Jul2025 06:38:00.614] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[23Jul2025 06:38:03.169] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[23Jul2025 06:38:03.170] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-774.61, y=208.00, z=-1970.40], To: Zombie['Zombie'/3060, l='ServerLevel[world]', x=-774.45, y=208.00, z=-1970.96]
+[23Jul2025 06:39:49.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 06:39:49.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
