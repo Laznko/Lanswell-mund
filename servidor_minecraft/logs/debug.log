@@ -15428,3 +15428,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jul2025 00:44:55.707] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [24Jul2025 00:45:16.707] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [24Jul2025 00:45:17.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:46:33.706] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:46:40.722] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:46:49.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 00:46:49.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 00:48:44.748] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-6524, y=5, z=-15956}
+[24Jul2025 00:49:18.714] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:49:33.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:50:39.707] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:51:07.728] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:51:49.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 00:51:49.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 00:52:02.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:52:15.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:55:06.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 00:55:20.721] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
