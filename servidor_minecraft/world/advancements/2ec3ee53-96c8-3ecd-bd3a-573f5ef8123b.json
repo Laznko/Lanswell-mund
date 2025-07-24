@@ -14852,5 +14852,17 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_angled": {
+    "criteria": {
+      "has_scaffolding": "2025-07-24 00:39:31 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_flat": {
+    "criteria": {
+      "has_scaffolding": "2025-07-24 00:39:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
