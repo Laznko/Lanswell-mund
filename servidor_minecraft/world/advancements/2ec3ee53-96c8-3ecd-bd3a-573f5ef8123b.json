@@ -14945,6 +14945,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-24 06:35:04 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/arsonist_necklace": {
     "criteria": {
       "has_fire_charge": "2025-07-24 06:17:59 +0000"

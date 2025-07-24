@@ -2814,3 +2814,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jul2025 06:17:32.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6728.04, y=62.56, z=-438.14] died: Vouzhul the Darkmaster was slain by Lance
 [24Jul2025 06:18:02.840] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28486, l='ServerLevel[world]', x=-6647.50, y=73.00, z=-336.50]
 [24Jul2025 06:18:54.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[24Jul2025 06:26:22.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29763, l='ServerLevel[world]', x=1525.59, y=61.04, z=1583.70] died, message: 'Unemployed drowned'
+[24Jul2025 06:28:15.421] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1576, y=-1, z=628}
+[24Jul2025 06:28:17.559] [Worker-Main-74/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jul2025 06:28:17.575] [Worker-Main-74/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Jul2025 06:28:44.822] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1825, y=-40, z=825}
+[24Jul2025 06:28:52.027] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1587, y=-30, z=592}
+[24Jul2025 06:28:52.027] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1590, y=-30, z=589}
+[24Jul2025 06:28:53.917] [Worker-Main-40/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1831, y=-46, z=911}
+[24Jul2025 06:28:56.808] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1628, y=-23, z=567}
+[24Jul2025 06:28:59.181] [Worker-Main-74/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1852, y=-42, z=879}
+[24Jul2025 06:28:59.181] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1852, y=-42, z=881}
+[24Jul2025 06:30:42.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 10.965639769289965,1.6485507828432873,-0.7799843790481873
+[24Jul2025 06:31:44.840] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36523, l='ServerLevel[world]', x=2197.50, y=86.00, z=895.50]
+[24Jul2025 06:32:04.491] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36614, l='ServerLevel[world]', x=2239.50, y=88.00, z=911.50]
+[24Jul2025 06:32:13.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36765, l='ServerLevel[world]', x=2205.50, y=76.00, z=824.50]
+[24Jul2025 06:34:34.471] [Worker-Main-80/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1548, y=-21, z=404}
+[24Jul2025 06:34:53.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1519, y=-21, z=419} but found not block entity block Block{minecraft:air} at location
+[24Jul2025 06:34:53.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1519, y=-21, z=419}
+[24Jul2025 06:35:04.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Who You Gonna Call?]
+[24Jul2025 06:35:04.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[24Jul2025 06:36:21.224] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40098, l='ServerLevel[world]', x=1644.50, y=74.00, z=422.50]
+[24Jul2025 06:37:39.091] [Worker-Main-81/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[24Jul2025 06:38:24.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! -10.125009137130064,-0.2200472392455879,2.0338829087754675
+[24Jul2025 06:43:31.841] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44288, l='ServerLevel[world]', x=785.50, y=73.00, z=54.50]
