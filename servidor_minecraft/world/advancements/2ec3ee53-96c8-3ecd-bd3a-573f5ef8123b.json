@@ -14897,5 +14897,107 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
+    "criteria": {
+      "crab_meat": "2025-07-24 06:11:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/voodoo_upgrade": {
+    "criteria": {
+      "has_totem": "2025-07-24 06:17:39 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
+    "criteria": {
+      "crab_meat": "2025-07-24 06:11:37 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_yellow": {
+    "criteria": {
+      "has_ghost_light": "2025-07-24 06:06:23 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_blue": {
+    "criteria": {
+      "has_ghost_light": "2025-07-24 06:06:23 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_purple": {
+    "criteria": {
+      "has_ghost_light": "2025-07-24 06:06:23 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_green": {
+    "criteria": {
+      "has_ghost_light": "2025-07-24 06:06:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-07-24 06:17:59 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2025-07-24 06:17:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-24 06:17:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-24 06:17:59 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat": {
+    "criteria": {
+      "crab_meat": "2025-07-24 06:11:37 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_orange": {
+    "criteria": {
+      "has_ghost_light": "2025-07-24 06:06:23 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/dragon_upgrade": {
+    "criteria": {
+      "has_charge": "2025-07-24 06:17:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/potato_pancake": {
+    "criteria": {
+      "has_potato": "2025-07-24 06:05:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-24 06:17:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-24 06:17:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

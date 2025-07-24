@@ -17739,3 +17739,289 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jul2025 06:04:05.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22908, l='ServerLevel[world]', x=-6878.50, y=74.00, z=169.50]
 [24Jul2025 06:04:07.516] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [24Jul2025 06:04:33.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23025, l='ServerLevel[world]', x=-6921.50, y=71.00, z=299.50]
+[24Jul2025 06:05:02.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23235, l='ServerLevel[world]', x=-6802.50, y=69.00, z=150.50]
+[24Jul2025 06:05:07.941] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23268, l='ServerLevel[world]', x=-6800.50, y=69.00, z=151.50]
+[24Jul2025 06:05:27.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23310, l='ServerLevel[world]', x=-6758.50, y=71.00, z=120.50]
+[24Jul2025 06:05:32.542] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23356, l='ServerLevel[world]', x=-6877.50, y=74.00, z=169.50]
+[24Jul2025 06:05:40.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 06:05:40.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 06:05:44.619] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:05:44.619] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6853.95, y=65.92, z=190.42], To: Pillager['Pillager'/23018, l='ServerLevel[world]', x=-6852.83, y=65.06, z=190.02]
+[24Jul2025 06:05:48.616] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:05:48.617] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6856.97, y=65.06, z=188.38], To: Pillager['Pillager'/22089, l='ServerLevel[world]', x=-6858.83, y=65.50, z=186.30]
+[24Jul2025 06:05:49.311] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:05:49.311] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6858.66, y=65.06, z=187.84], To: Pillager['Pillager'/23018, l='ServerLevel[world]', x=-6852.30, y=65.00, z=186.94] [0.7773445]
+[24Jul2025 06:05:49.311] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[24Jul2025 06:05:54.041] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23478, l='ServerLevel[world]', x=-6896.50, y=73.00, z=160.50]
+[24Jul2025 06:05:54.960] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:05:54.960] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6860.77, y=65.00, z=185.80], To: Pillager['Pillager'/22849, l='ServerLevel[world]', x=-6863.57, y=65.00, z=191.81] [23.3]
+[24Jul2025 06:05:54.960] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[24Jul2025 06:05:55.117] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:05:55.118] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6860.57, y=65.50, z=185.26], To: Pillager['Pillager'/23305, l='ServerLevel[world]', x=-6860.60, y=65.00, z=182.77]
+[24Jul2025 06:05:56.312] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:05:56.312] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6860.26, y=65.50, z=186.84], To: Pillager['Pillager'/22791, l='ServerLevel[world]', x=-6854.20, y=65.06, z=187.64] [19.475]
+[24Jul2025 06:05:56.312] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:05:57.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:05:57.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6857.05, y=65.06, z=187.48], To: Pillager['Pillager'/22791, l='ServerLevel[world]', x=-6853.84, y=65.06, z=187.65]
+[24Jul2025 06:05:58.168] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:05:58.168] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6855.41, y=65.06, z=187.23], To: Pillager['Pillager'/23018, l='ServerLevel[world]', x=-6852.83, y=65.00, z=186.71]
+[24Jul2025 06:05:58.815] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:05:58.815] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6854.06, y=65.06, z=187.49], To: Pillager['Pillager'/22987, l='ServerLevel[world]', x=-6852.33, y=65.00, z=189.36]
+[24Jul2025 06:05:59.463] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:05:59.463] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6853.14, y=65.06, z=188.77], To: Pillager['Pillager'/21944, l='ServerLevel[world]', x=-6850.12, y=64.50, z=189.39]
+[24Jul2025 06:06:02.468] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:02.468] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6858.03, y=65.06, z=187.86], To: Pillager['Pillager'/22849, l='ServerLevel[world]', x=-6860.23, y=65.00, z=188.01]
+[24Jul2025 06:06:03.913] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:03.914] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6854.93, y=65.06, z=188.11], To: Pillager['Pillager'/22683, l='ServerLevel[world]', x=-6852.44, y=65.00, z=189.32]
+[24Jul2025 06:06:06.278] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:06.278] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6846.79, y=64.00, z=188.62], To: Pillager['Pillager'/22973, l='ServerLevel[world]', x=-6843.48, y=64.00, z=188.50]
+[24Jul2025 06:06:07.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23556, l='ServerLevel[world]', x=-6790.50, y=74.00, z=99.50]
+[24Jul2025 06:06:08.068] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:08.069] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6838.61, y=64.00, z=187.83], To: Pillager['Pillager'/22973, l='ServerLevel[world]', x=-6836.58, y=64.00, z=187.86]
+[24Jul2025 06:06:10.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:10.766] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6836.98, y=63.00, z=197.56], To: Pillager['Pillager'/21965, l='ServerLevel[world]', x=-6837.51, y=63.00, z=200.55]
+[24Jul2025 06:06:13.160] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:13.160] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6838.59, y=63.00, z=207.16], To: EntityWisp['Wisp'/21794, l='ServerLevel[world]', x=-6838.85, y=63.45, z=209.97]
+[24Jul2025 06:06:13.733] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Jul2025 06:06:13.733] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Jul2025 06:06:13.733] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Jul2025 06:06:13.734] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Jul2025 06:06:14.641] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23634, l='ServerLevel[world]', x=-6950.50, y=62.00, z=251.50]
+[24Jul2025 06:06:18.263] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:18.263] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6827.99, y=64.00, z=220.04], To: EntityWisp['Wisp'/21795, l='ServerLevel[world]', x=-6827.42, y=63.83, z=221.37]
+[24Jul2025 06:06:23.060] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:23.060] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6835.33, y=64.00, z=211.69], To: EntityWisp['Wisp'/21796, l='ServerLevel[world]', x=-6836.71, y=63.21, z=210.38]
+[24Jul2025 06:06:40.163] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:40.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6847.43, y=64.00, z=194.40], To: Pillager['Pillager'/22684, l='ServerLevel[world]', x=-6849.45, y=64.00, z=192.16]
+[24Jul2025 06:06:45.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:45.766] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6866.24, y=64.00, z=187.12], To: Pillager['Pillager'/23632, l='ServerLevel[world]', x=-6869.26, y=64.00, z=187.50]
+[24Jul2025 06:06:46.791] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23906, l='ServerLevel[world]', x=-6805.50, y=77.00, z=106.50]
+[24Jul2025 06:06:57.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:06:57.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6857.61, y=65.06, z=188.20], To: Zombie['Zombie'/23834, l='ServerLevel[world]', x=-6859.48, y=65.00, z=188.50]
+[24Jul2025 06:07:02.290] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23996, l='ServerLevel[world]', x=-6760.50, y=71.00, z=119.50]
+[24Jul2025 06:07:38.641] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24122, l='ServerLevel[world]', x=-6879.50, y=74.00, z=171.50]
+[24Jul2025 06:07:51.240] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24203, l='ServerLevel[world]', x=-6758.50, y=71.00, z=119.50]
+[24Jul2025 06:07:51.890] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24204, l='ServerLevel[world]', x=-6889.50, y=73.00, z=158.50]
+[24Jul2025 06:08:07.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24260, l='ServerLevel[world]', x=-6948.50, y=71.00, z=269.50]
+[24Jul2025 06:08:07.491] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24261, l='ServerLevel[world]', x=-6831.50, y=72.00, z=151.50]
+[24Jul2025 06:08:08.414] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:08:08.415] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6849.44, y=64.00, z=197.92], To: Pillager['Pillager'/23992, l='ServerLevel[world]', x=-6850.50, y=65.00, z=188.81] [23.3]
+[24Jul2025 06:08:08.415] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[24Jul2025 06:08:11.763] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:08:11.763] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6848.32, y=64.00, z=191.29], To: Pillager['Pillager'/23992, l='ServerLevel[world]', x=-6850.50, y=65.00, z=190.44]
+[24Jul2025 06:08:14.891] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24331, l='ServerLevel[world]', x=-6858.50, y=72.00, z=175.50]
+[24Jul2025 06:08:33.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24396, l='ServerLevel[world]', x=-6879.50, y=74.00, z=169.50]
+[24Jul2025 06:08:38.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:08:38.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6867.31, y=64.00, z=175.70], To: Pillager['Pillager'/24395, l='ServerLevel[world]', x=-6848.10, y=64.00, z=167.10] [23.475]
+[24Jul2025 06:08:38.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:08:43.859] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:08:43.859] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6850.80, y=64.00, z=169.69], To: Pillager['Pillager'/24395, l='ServerLevel[world]', x=-6849.04, y=64.00, z=168.04]
+[24Jul2025 06:08:46.712] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:08:46.713] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6844.75, y=65.85, z=161.32], To: Pillager['Pillager'/24395, l='ServerLevel[world]', x=-6842.46, y=64.00, z=160.82]
+[24Jul2025 06:08:46.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24499, l='ServerLevel[world]', x=-6801.50, y=69.00, z=151.50]
+[24Jul2025 06:08:51.014] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:08:51.014] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6854.08, y=63.00, z=164.74], To: ThesmokerEntity['The Wheezer'/24394, l='ServerLevel[world]', x=-6852.50, y=64.00, z=164.75]
+[24Jul2025 06:08:54.641] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24560, l='ServerLevel[world]', x=-6760.50, y=71.00, z=120.50]
+[24Jul2025 06:08:56.692] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24603, l='ServerLevel[world]', x=-6950.50, y=62.00, z=253.50]
+[24Jul2025 06:09:11.941] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24765, l='ServerLevel[world]', x=-6952.50, y=62.00, z=253.50]
+[24Jul2025 06:09:21.043] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24798, l='ServerLevel[world]', x=-6790.50, y=74.00, z=100.50]
+[24Jul2025 06:09:33.440] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24841, l='ServerLevel[world]', x=-6803.50, y=77.00, z=108.50]
+[24Jul2025 06:09:48.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24924, l='ServerLevel[world]', x=-6802.50, y=76.00, z=132.50]
+[24Jul2025 06:10:08.241] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25010, l='ServerLevel[world]', x=-6803.50, y=76.00, z=132.50]
+[24Jul2025 06:10:29.691] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25197, l='ServerLevel[world]', x=-6784.50, y=70.00, z=117.50]
+[24Jul2025 06:10:40.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 06:10:40.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 06:10:41.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:10:41.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6793.98, y=67.00, z=107.53], To: EntityZotzpyre['Zotzpyre'/25137, l='ServerLevel[world]', x=-6794.73, y=69.31, z=107.09] [19.475]
+[24Jul2025 06:10:41.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:10:42.872] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:42.872] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6794.28, y=67.00, z=102.80], To: SkeletonThrasherEntity['Skeleton Thrasher'/25167, l='ServerLevel[world]', x=-6794.50, y=67.00, z=100.85]
+[24Jul2025 06:10:43.370] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:43.370] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6794.28, y=67.00, z=103.84], To: SkeletonThrasherEntity['Skeleton Thrasher'/25167, l='ServerLevel[world]', x=-6794.55, y=67.00, z=101.56]
+[24Jul2025 06:10:43.918] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:43.918] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6794.72, y=67.00, z=105.25], To: SkeletonThrasherEntity['Skeleton Thrasher'/25167, l='ServerLevel[world]', x=-6794.54, y=67.00, z=102.75]
+[24Jul2025 06:10:44.512] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:44.512] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6795.81, y=67.00, z=106.27], To: SkeletonThrasherEntity['Skeleton Thrasher'/25167, l='ServerLevel[world]', x=-6794.72, y=67.00, z=103.91]
+[24Jul2025 06:10:45.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:45.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6796.47, y=67.00, z=106.83], To: SkeletonThrasherEntity['Skeleton Thrasher'/25167, l='ServerLevel[world]', x=-6795.78, y=67.00, z=104.74]
+[24Jul2025 06:10:45.517] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:45.517] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6795.37, y=67.00, z=107.51], To: SkeletonThrasherEntity['Skeleton Thrasher'/25167, l='ServerLevel[world]', x=-6796.50, y=67.00, z=105.50]
+[24Jul2025 06:10:46.066] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:46.066] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6795.16, y=68.35, z=108.63], To: SkeletonThrasherEntity['Skeleton Thrasher'/25167, l='ServerLevel[world]', x=-6795.56, y=67.00, z=106.46]
+[24Jul2025 06:10:47.118] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:47.119] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6797.92, y=67.00, z=109.97], To: SkeletonThrasherEntity['Skeleton Thrasher'/25167, l='ServerLevel[world]', x=-6796.41, y=67.00, z=108.43]
+[24Jul2025 06:10:51.356] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:10:51.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6792.68, y=67.00, z=110.73], To: EntityZotzpyre['Zotzpyre'/25137, l='ServerLevel[world]', x=-6792.43, y=68.12, z=110.93] [18.95]
+[24Jul2025 06:10:51.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:10:53.689] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:10:53.689] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6791.54, y=67.00, z=107.74], To: DreadHoundEntity['Dread Hound'/25139, l='ServerLevel[world]', x=-6791.50, y=67.00, z=109.74]
+[24Jul2025 06:10:57.640] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25357, l='ServerLevel[world]', x=-6894.50, y=73.00, z=159.50]
+[24Jul2025 06:11:06.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:11:06.461] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6787.51, y=63.47, z=112.02], To: Legioner['Legioner'/25367, l='ServerLevel[world]', x=-6786.89, y=63.00, z=113.11] [36.867188]
+[24Jul2025 06:11:06.461] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0125
+[24Jul2025 06:11:06.515] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:06.515] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6787.40, y=63.00, z=112.28], To: Legioner['Legioner'/25367, l='ServerLevel[world]', x=-6787.25, y=63.00, z=112.75]
+[24Jul2025 06:11:07.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:11:07.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6787.57, y=63.00, z=111.48], To: EntityZotzpyre['Zotzpyre'/25137, l='ServerLevel[world]', x=-6788.22, y=64.00, z=111.24] [15.425001]
+[24Jul2025 06:11:07.152] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:11:07.990] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:07.990] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6785.68, y=63.00, z=113.27], To: Legioner['Legioner'/25367, l='ServerLevel[world]', x=-6785.73, y=63.00, z=114.37]
+[24Jul2025 06:11:08.800] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:11:08.803] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6783.87, y=64.50, z=114.16], To: Guard['Guard'/22051, l='ServerLevel[world]', x=-6783.47, y=63.00, z=114.47] [14.3]
+[24Jul2025 06:11:08.803] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[24Jul2025 06:11:08.997] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:08.998] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6783.78, y=64.27, z=114.60], To: Legioner['Legioner'/25367, l='ServerLevel[world]', x=-6784.70, y=63.00, z=116.01]
+[24Jul2025 06:11:09.141] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25461, l='ServerLevel[world]', x=-6831.50, y=72.00, z=152.50]
+[24Jul2025 06:11:13.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:11:13.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6783.05, y=63.00, z=120.45], To: EntityZotzpyre['Zotzpyre'/25137, l='ServerLevel[world]', x=-6782.89, y=64.23, z=120.40] [14.900002]
+[24Jul2025 06:11:13.252] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:11:13.361] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:13.361] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6783.28, y=63.00, z=120.92], To: Pillager['Pillager'/25366, l='ServerLevel[world]', x=-6784.41, y=63.00, z=122.99]
+[24Jul2025 06:11:13.916] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:13.916] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6783.79, y=63.00, z=122.82], To: Pillager['Pillager'/25365, l='ServerLevel[world]', x=-6782.44, y=62.00, z=124.62]
+[24Jul2025 06:11:15.651] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:11:15.651] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6782.19, y=63.00, z=124.15], To: EntityZotzpyre['Zotzpyre'/25137, l='ServerLevel[world]', x=-6783.17, y=65.19, z=122.22] [14.375002]
+[24Jul2025 06:11:15.651] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:11:15.911] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:15.911] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6782.09, y=63.28, z=124.35], To: DreadHoundEntity['Dread Hound'/25138, l='ServerLevel[world]', x=-6783.46, y=62.92, z=123.62]
+[24Jul2025 06:11:17.950] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:11:17.950] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6782.05, y=63.19, z=122.68], To: EntityZotzpyre['Zotzpyre'/25137, l='ServerLevel[world]', x=-6781.55, y=65.53, z=124.44] [13.850002]
+[24Jul2025 06:11:17.951] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:11:19.716] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:19.716] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6781.31, y=64.35, z=122.62], To: EntityZotzpyre['Zotzpyre'/25137, l='ServerLevel[world]', x=-6781.66, y=64.32, z=120.81]
+[24Jul2025 06:11:23.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:23.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6782.93, y=63.19, z=122.24], To: DecayingZombieEntity['Decaying Zombie'/24253, l='ServerLevel[world]', x=-6785.46, y=64.23, z=121.53]
+[24Jul2025 06:11:23.608] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:23.609] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6783.09, y=63.19, z=122.20], To: DecrepitSkeletonEntity['Decrepit Skeleton'/25539, l='ServerLevel[world]', x=-6785.50, y=64.00, z=121.50]
+[24Jul2025 06:11:25.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25558, l='ServerLevel[world]', x=-6784.50, y=70.00, z=118.50]
+[24Jul2025 06:11:31.961] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:31.962] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6782.86, y=63.00, z=115.94], To: CoconutCrab['Coconut Crab'/25562, l='ServerLevel[world]', x=-6785.00, y=64.00, z=118.00]
+[24Jul2025 06:11:32.290] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25601, l='ServerLevel[world]', x=-6771.50, y=72.00, z=97.50]
+[24Jul2025 06:11:34.398] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25607, l='ServerLevel[world]', x=-6772.50, y=72.00, z=97.50]
+[24Jul2025 06:11:47.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25661, l='ServerLevel[world]', x=-6896.50, y=73.00, z=159.50]
+[24Jul2025 06:11:59.812] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:11:59.813] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6777.48, y=63.00, z=107.74], To: ZombieBruiserEntity['Zombie Bruiser'/25430, l='ServerLevel[world]', x=-6776.39, y=63.00, z=108.78]
+[24Jul2025 06:12:01.061] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:12:01.061] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6777.69, y=63.00, z=106.76], To: ZombieBruiserEntity['Zombie Bruiser'/25430, l='ServerLevel[world]', x=-6777.48, y=63.00, z=108.51]
+[24Jul2025 06:12:03.591] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25725, l='ServerLevel[world]', x=-6891.50, y=73.00, z=157.50]
+[24Jul2025 06:12:18.891] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25764, l='ServerLevel[world]', x=-6816.50, y=70.00, z=157.50]
+[24Jul2025 06:12:24.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25777, l='ServerLevel[world]', x=-6891.50, y=73.00, z=156.50]
+[24Jul2025 06:12:34.954] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6555, y=-31, z=20}
+[24Jul2025 06:12:34.955] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-6551, y=-27, z=31} at Coffin with:graveyard:chests/crypt_loot
+[24Jul2025 06:12:44.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25907, l='ServerLevel[world]', x=-6743.50, y=72.00, z=92.50]
+[24Jul2025 06:12:57.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:12:57.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6754.92, y=63.00, z=94.85], To: Zombie['Zombie'/25839, l='ServerLevel[world]', x=-6753.61, y=63.00, z=94.50] [19.5625]
+[24Jul2025 06:12:57.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:13:00.556] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:13:00.556] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6755.87, y=63.00, z=95.10], To: Zombie['Zombie'/25839, l='ServerLevel[world]', x=-6754.96, y=63.00, z=95.49] [19.125]
+[24Jul2025 06:13:00.556] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:13:03.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:13:03.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6756.79, y=63.00, z=94.73], To: Zombie['Zombie'/25838, l='ServerLevel[world]', x=-6755.47, y=63.00, z=94.50] [19.5625]
+[24Jul2025 06:13:03.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:13:03.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:13:03.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6757.68, y=63.22, z=94.86], To: Zombie['Zombie'/25839, l='ServerLevel[world]', x=-6756.94, y=63.00, z=94.47] [18.6875]
+[24Jul2025 06:13:03.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:13:04.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:13:04.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6758.80, y=63.00, z=95.30], To: Zombie['Zombie'/25838, l='ServerLevel[world]', x=-6757.60, y=63.00, z=95.23] [19.125]
+[24Jul2025 06:13:04.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:13:04.841] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25968, l='ServerLevel[world]', x=-6703.50, y=72.00, z=95.50]
+[24Jul2025 06:13:05.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:13:05.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6759.70, y=63.00, z=95.40], To: Zombie['Zombie'/25839, l='ServerLevel[world]', x=-6759.06, y=63.00, z=95.49] [18.25]
+[24Jul2025 06:13:05.555] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:13:06.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:13:06.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6759.70, y=63.00, z=95.32], To: Zombie['Zombie'/25838, l='ServerLevel[world]', x=-6759.08, y=63.00, z=95.04] [18.6875]
+[24Jul2025 06:13:06.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[24Jul2025 06:13:07.414] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:13:07.415] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6759.70, y=63.00, z=95.74], To: Zombie['Zombie'/25838, l='ServerLevel[world]', x=-6759.03, y=63.00, z=95.30]
+[24Jul2025 06:13:07.609] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:13:07.609] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6759.70, y=63.00, z=95.75], To: Zombie['Zombie'/25839, l='ServerLevel[world]', x=-6759.58, y=63.00, z=94.97]
+[24Jul2025 06:13:08.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:13:08.261] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6759.70, y=63.00, z=95.75], To: Zombie['Zombie'/25839, l='ServerLevel[world]', x=-6759.28, y=63.00, z=93.92]
+[24Jul2025 06:13:19.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26025, l='ServerLevel[world]', x=-6696.50, y=70.00, z=58.50]
+[24Jul2025 06:13:26.591] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26077, l='ServerLevel[world]', x=-6785.50, y=79.00, z=75.50]
+[24Jul2025 06:13:32.290] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26093, l='ServerLevel[world]', x=-6717.50, y=72.00, z=90.50]
+[24Jul2025 06:13:39.736] [Worker-Main-40/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6485, y=-34, z=20}
+[24Jul2025 06:13:39.855] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26126, l='ServerLevel[world]', x=-6701.50, y=72.00, z=95.50]
+[24Jul2025 06:13:57.290] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26309, l='ServerLevel[world]', x=-6716.50, y=72.00, z=89.50]
+[24Jul2025 06:14:07.090] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26454, l='ServerLevel[world]', x=-6688.50, y=70.00, z=98.50]
+[24Jul2025 06:14:45.961] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-6682, y=56, z=-427} at Chest with:minecraft:chests/ruined_portal
+[24Jul2025 06:14:58.734] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-6843, y=-30, z=-434} at Chest with:minecraft:chests/simple_dungeon
+[24Jul2025 06:15:17.856] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Jul2025 06:15:40.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 06:15:40.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 06:16:43.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:16:43.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6654.54, y=68.00, z=-386.35], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6679.11, y=62.41, z=-425.11]
+[24Jul2025 06:16:45.710] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:16:45.711] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6655.75, y=68.00, z=-385.59], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6679.83, y=62.64, z=-426.04]
+[24Jul2025 06:16:47.354] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:16:47.354] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6656.30, y=68.00, z=-385.26], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6680.52, y=62.48, z=-427.18]
+[24Jul2025 06:16:53.602] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:16:53.602] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6659.86, y=66.00, z=-385.93], To: Skeleton['Skeleton'/28086, l='ServerLevel[world]', x=-6678.66, y=54.84, z=-426.66]
+[24Jul2025 06:17:03.420] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:03.420] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6676.84, y=55.31, z=-424.56], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6678.51, y=54.00, z=-425.54]
+[24Jul2025 06:17:04.741] [Worker-Main-30/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-6572, y=40, z=-636} at Chest with:minecraft:chests/underwater_ruin_small
+[24Jul2025 06:17:05.814] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:17:05.814] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6676.87, y=58.35, z=-425.69], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6678.87, y=55.50, z=-425.53] [59.22917]
+[24Jul2025 06:17:05.814] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[24Jul2025 06:17:07.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:17:07.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6677.41, y=58.02, z=-425.58], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6678.87, y=55.50, z=-425.53] [58.949173]
+[24Jul2025 06:17:07.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.4
+[24Jul2025 06:17:07.467] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:07.467] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6677.41, y=58.02, z=-425.58], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6678.87, y=55.50, z=-425.53]
+[24Jul2025 06:17:09.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:17:09.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6677.29, y=57.69, z=-426.78], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6683.85, y=59.75, z=-425.68] [53.070576]
+[24Jul2025 06:17:09.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.4
+[24Jul2025 06:17:10.365] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:10.365] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6676.83, y=56.99, z=-426.80], To: Husk['Husk'/28085, l='ServerLevel[world]', x=-6679.56, y=55.50, z=-426.11]
+[24Jul2025 06:17:12.767] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:17:12.767] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6680.26, y=58.21, z=-425.33], To: Skeleton['Skeleton'/28086, l='ServerLevel[world]', x=-6678.70, y=54.00, z=-425.60] [11.200002]
+[24Jul2025 06:17:12.767] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[24Jul2025 06:17:13.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:13.661] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6683.13, y=60.33, z=-425.27], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6683.85, y=62.60, z=-425.68]
+[24Jul2025 06:17:14.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:14.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6683.05, y=61.41, z=-425.03], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6687.61, y=62.46, z=-429.23]
+[24Jul2025 06:17:17.205] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:17.205] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6690.31, y=62.62, z=-431.63], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6691.92, y=62.58, z=-432.45]
+[24Jul2025 06:17:19.958] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:19.958] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6695.78, y=62.41, z=-434.80], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6697.25, y=62.45, z=-435.16]
+[24Jul2025 06:17:22.519] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:22.519] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6704.28, y=61.79, z=-437.15], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6705.44, y=62.51, z=-437.38]
+[24Jul2025 06:17:25.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:25.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6712.33, y=62.09, z=-438.89], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6713.77, y=62.53, z=-438.97]
+[24Jul2025 06:17:26.356] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[24Jul2025 06:17:26.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6714.14, y=62.05, z=-441.23], To: Stray['Stray'/28347, l='ServerLevel[world]', x=-6717.07, y=61.25, z=-440.22] [19.44]
+[24Jul2025 06:17:26.357] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[24Jul2025 06:17:27.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:27.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6714.48, y=61.24, z=-441.67], To: Stray['Stray'/28347, l='ServerLevel[world]', x=-6715.70, y=60.79, z=-440.99]
+[24Jul2025 06:17:27.267] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[24Jul2025 06:17:28.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:28.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6717.42, y=61.00, z=-441.29], To: Husk['Husk'/28348, l='ServerLevel[world]', x=-6718.75, y=60.39, z=-441.75]
+[24Jul2025 06:17:28.831] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:28.831] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6720.44, y=61.87, z=-439.88], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6722.24, y=62.60, z=-439.58]
+[24Jul2025 06:17:32.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:32.111] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6726.36, y=61.86, z=-440.83], To: Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6728.04, y=62.56, z=-438.14]
+[24Jul2025 06:17:32.113] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Jul2025 06:17:32.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/27172, l='ServerLevel[world]', x=-6728.04, y=62.56, z=-438.14] died: Vouzhul the Darkmaster was slain by Lance
+[24Jul2025 06:17:32.116] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[24Jul2025 06:17:34.165] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:34.165] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6726.56, y=62.04, z=-441.13], To: EntitySeaSerpent['Sea Serpent'/27770, l='ServerLevel[world]', x=-6733.47, y=62.58, z=-437.17]
+[24Jul2025 06:17:40.817] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:40.817] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6728.96, y=55.35, z=-437.97], To: EntitySeaSerpent['Sea Serpent'/27770, l='ServerLevel[world]', x=-6724.87, y=55.23, z=-437.94]
+[24Jul2025 06:17:41.362] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:41.362] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6728.54, y=55.08, z=-438.03], To: EntitySeaSerpent['Sea Serpent'/27770, l='ServerLevel[world]', x=-6724.87, y=55.63, z=-437.87]
+[24Jul2025 06:17:41.866] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:17:41.866] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6728.22, y=55.00, z=-438.07], To: EntitySeaSerpent['Sea Serpent'/27770, l='ServerLevel[world]', x=-6724.87, y=56.09, z=-438.51]
+[24Jul2025 06:18:02.840] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28486, l='ServerLevel[world]', x=-6647.50, y=73.00, z=-336.50]
+[24Jul2025 06:18:46.010] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[24Jul2025 06:18:46.010] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/14914, l='ServerLevel[world]', x=-6727.08, y=61.28, z=-440.08], To: Drowned['Drowned'/28472, l='ServerLevel[world]', x=-6727.87, y=61.03, z=-439.82]
+[24Jul2025 06:18:54.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[24Jul2025 06:18:55.218] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[24Jul2025 06:18:55.218] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md9be8a5$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[24Jul2025 06:20:01.962] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 06:20:42.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 06:20:42.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 06:23:51.957] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 06:23:52.959] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 06:24:07.959] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 06:24:08.956] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[24Jul2025 06:24:09.960] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
