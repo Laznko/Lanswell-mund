@@ -14897,21 +14897,9 @@
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
+  "rats:recipes/food/potato_pancake": {
     "criteria": {
-      "crab_meat": "2025-07-24 06:11:37 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/voodoo_upgrade": {
-    "criteria": {
-      "has_totem": "2025-07-24 06:17:39 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
-    "criteria": {
-      "crab_meat": "2025-07-24 06:11:37 +0000"
+      "has_potato": "2025-07-24 06:05:52 +0000"
     },
     "done": true
   },
@@ -14939,15 +14927,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+  "whisperwoods:recipes/whisperwoods/wisp_lantern_orange": {
     "criteria": {
-      "has_sea_serpent_scales_red": "2025-07-24 06:17:59 +0000"
+      "has_ghost_light": "2025-07-24 06:06:23 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "ecologics:recipes/ecologics/crab_meat_from_smoking": {
     "criteria": {
-      "killed_fire_dragon": "2025-07-24 06:35:04 +0000"
+      "crab_meat": "2025-07-24 06:11:37 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat_from_campfire_cooking": {
+    "criteria": {
+      "crab_meat": "2025-07-24 06:11:37 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/crab_meat": {
+    "criteria": {
+      "crab_meat": "2025-07-24 06:11:37 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/voodoo_upgrade": {
+    "criteria": {
+      "has_totem": "2025-07-24 06:17:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-07-24 06:17:59 +0000"
     },
     "done": true
   },
@@ -14969,27 +14981,9 @@
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/crab_meat": {
-    "criteria": {
-      "crab_meat": "2025-07-24 06:11:37 +0000"
-    },
-    "done": true
-  },
-  "whisperwoods:recipes/whisperwoods/wisp_lantern_orange": {
-    "criteria": {
-      "has_ghost_light": "2025-07-24 06:06:23 +0000"
-    },
-    "done": true
-  },
   "rats:recipes/misc/upgrades/dragon_upgrade": {
     "criteria": {
       "has_charge": "2025-07-24 06:17:59 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/potato_pancake": {
-    "criteria": {
-      "has_potato": "2025-07-24 06:05:52 +0000"
     },
     "done": true
   },
@@ -15002,6 +14996,18 @@
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-07-24 06:17:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-24 06:35:04 +0000"
+    },
+    "done": true
+  },
+  "darkdoppelganger:root": {
+    "criteria": {
+      "get_scroll": "2025-07-24 21:40:33 +0000"
     },
     "done": true
   },
