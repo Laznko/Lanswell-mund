@@ -2728,3 +2728,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jul2025 05:53:49.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
 [24Jul2025 05:53:49.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
 [24Jul2025 05:53:49.983] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[24Jul2025 05:54:06.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance was kicked for floating too long!
+[24Jul2025 05:54:06.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Flying is not enabled on this server
+[24Jul2025 05:54:06.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
+[24Jul2025 05:55:03.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lance[/127.116.120.48:52035] logged in with entity id 14914 at (1153.1935750193709, 128.23949789564946, -427.1599238816233)
+[24Jul2025 05:55:03.583] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lance
+[24Jul2025 05:55:03.583] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lance
+[24Jul2025 05:55:03.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lance
+[24Jul2025 05:55:03.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lance
+[24Jul2025 05:55:03.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lance
+[24Jul2025 05:55:03.588] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lance
+[24Jul2025 05:55:03.588] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
+[24Jul2025 05:55:03.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
+[24Jul2025 05:55:03.636] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[24Jul2025 05:55:37.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 0.0,-12.179127637094666,0.0
+[24Jul2025 05:57:58.019] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[24Jul2025 05:57:58.019] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[24Jul2025 05:57:58.019] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[24Jul2025 05:58:13.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/18056, l='ServerLevel[world]', x=1557.81, y=52.69, z=-357.07] died: Sargent the Soaked was slain by Lance
+[24Jul2025 05:58:41.734] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[24Jul2025 05:58:41.807] [Worker-Main-39/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[24Jul2025 05:58:41.811] [Worker-Main-39/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[24Jul2025 05:58:45.562] [Worker-Main-40/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[24Jul2025 05:58:58.806] [Worker-Main-30/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Jul2025 05:59:17.141] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19067, l='ServerLevel[world]', x=1625.50, y=70.00, z=-388.50]
+[24Jul2025 06:00:17.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[24Jul2025 06:00:44.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 9.491540638901824,4.362650611498921,-0.4963617669214955
+[24Jul2025 06:01:33.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 7.5525009364537254,-8.536242793237221,-0.28283791581483797
+[24Jul2025 06:02:02.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 0.9644361574637514,-11.078795195522474,-0.40675794924730724
+[24Jul2025 06:02:06.098] [Worker-Main-30/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[24Jul2025 06:02:19.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 7.345415606755523,-2.305509088019072,6.8507656655788765
+[24Jul2025 06:03:03.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Rumak the Dark'/21740, l='ServerLevel[world]', x=-6857.14, y=75.00, z=197.70] died: Rumak the Dark was slain by Lance
+[24Jul2025 06:03:37.541] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22736, l='ServerLevel[world]', x=-6805.50, y=77.00, z=108.50]
+[24Jul2025 06:03:50.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22823, l='ServerLevel[world]', x=-6920.50, y=71.00, z=300.50]
+[24Jul2025 06:04:05.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22908, l='ServerLevel[world]', x=-6878.50, y=74.00, z=169.50]
+[24Jul2025 06:04:33.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/23025, l='ServerLevel[world]', x=-6921.50, y=71.00, z=299.50]
