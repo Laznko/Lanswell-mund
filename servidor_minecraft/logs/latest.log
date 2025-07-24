@@ -2599,3 +2599,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jul2025 00:27:54.754] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
 [24Jul2025 00:27:54.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
 [24Jul2025 00:27:54.821] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[24Jul2025 01:19:07.003] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Jul2025 01:19:07.006] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Jul2025 01:19:07.006] [Worker-Main-40/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Jul2025 01:20:52.239] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[24Jul2025 01:21:02.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 0.18143844281155452,5.550003526290048,10.260691600392192
+[24Jul2025 01:21:06.590] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/12505, l='ServerLevel[world]', x=-317.50, y=74.00, z=-590.50]
+[24Jul2025 01:24:14.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! -10.451613912007133,7.824499113602123,0.08137665063674149
+[24Jul2025 01:24:50.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! -9.23055984741859,7.9571160338471,0.5541442004840746
