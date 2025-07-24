@@ -14864,6 +14864,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bee_upgrade": {
+    "criteria": {
+      "has_bottle": "2025-07-24 00:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_dried_kelp_block": "2025-07-24 00:47:07 +0000"
