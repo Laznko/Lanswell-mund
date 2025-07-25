@@ -1,4 +1,23 @@
 
+#Visuals & Sound Settings
+[visuals_and_sounds]
+	#Fireballs will leave a trail of fire and smoke behind
+	improved_fireball_particles = true
+	#Soul Fire will emit unique particles instead of smoke
+	improved_soul_fire_particles = true
+	#Black Ice will produce snowflake particles
+	enable_black_ice_particles = true
+	#Ectoplasm will produce light rays and rising particles
+	enable_ectoplasm_particles = true
+	#Ectoplasm will occasionally produce whispering sounds
+	enable_ectoplasm_sounds = true
+	#When Betrayed effect is active it'll turn all lighting red
+	treacherous_candle_red_lights = true
+	#When Betrayed effect is active a dense red fog will appear
+	treacherous_candle_fog = true
+	#Treacherous Candle will produce red haze and sparkle particles
+	treacherous_candle_particles = true
+
 #Block Settings
 [blocks]
 	#Nether vines have a random chance to grow their biomes' respective spores if they haven't reached maturity
@@ -161,23 +180,4 @@
 	black_ice_glaciers_rarity = 0.085
 	#How big Black Ice Glaciers should be
 	black_ice_glaciers_size = 128
-
-#Visuals & Sound Settings
-[visuals_and_sounds]
-	#Fireballs will leave a trail of fire and smoke behind
-	improved_fireball_particles = true
-	#Soul Fire will emit unique particles instead of smoke
-	improved_soul_fire_particles = true
-	#Black Ice will produce snowflake particles
-	enable_black_ice_particles = true
-	#Ectoplasm will produce light rays and rising particles
-	enable_ectoplasm_particles = true
-	#Ectoplasm will occasionally produce whispering sounds
-	enable_ectoplasm_sounds = true
-	#When Betrayed effect is active it'll turn all lighting red
-	treacherous_candle_red_lights = true
-	#When Betrayed effect is active a dense red fog will appear
-	treacherous_candle_fog = true
-	#Treacherous Candle will produce red haze and sparkle particles
-	treacherous_candle_particles = true
 
