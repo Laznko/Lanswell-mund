@@ -15491,6 +15491,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-07-26 07:11:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-07-26 07:08:58 +0000"
