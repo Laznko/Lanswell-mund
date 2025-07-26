@@ -4037,3 +4037,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jul2025 06:46:42.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7193ms or 143 ticks behind
 [26Jul2025 06:46:42.697] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
 [26Jul2025 06:46:42.697] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[26Jul2025 06:53:50.241] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 8565
+[26Jul2025 06:54:02.745] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 8815
+[26Jul2025 06:54:29.526] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 9351
+[26Jul2025 06:54:30.788] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 9376
+[26Jul2025 06:54:32.378] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 9408
+[26Jul2025 06:54:33.830] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 9437
+[26Jul2025 06:54:35.276] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 9466
+[26Jul2025 06:54:39.674] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 9554
+[26Jul2025 06:54:43.540] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 9631
+[26Jul2025 06:54:45.188] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 9664
+[26Jul2025 06:58:06.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Timed out
+[26Jul2025 06:58:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
+[26Jul2025 06:58:06.325] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jul2025 06:58:24.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lance[/127.116.120.48:57725] logged in with entity id 2059 at (-774.781306363571, 201.0, -1977.3357065210923)
+[26Jul2025 06:58:24.137] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lance
+[26Jul2025 06:58:24.137] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lance
+[26Jul2025 06:58:24.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lance
+[26Jul2025 06:58:24.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lance
+[26Jul2025 06:58:24.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lance
+[26Jul2025 06:58:24.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lance
+[26Jul2025 06:58:24.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
+[26Jul2025 06:58:24.172] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Lance
+[26Jul2025 06:58:24.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
+[26Jul2025 06:58:24.216] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[26Jul2025 06:58:36.438] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 247
+[26Jul2025 06:58:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [The Healing Power of Friendship!]
+[26Jul2025 06:58:39.841] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 315

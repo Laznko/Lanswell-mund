@@ -15047,5 +15047,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/kill_axolotl_target": {
+    "criteria": {
+      "kill_axolotl_target": "2025-07-26 06:58:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
