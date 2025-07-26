@@ -18626,3 +18626,226 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jul2025 07:22:34.075] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [26Jul2025 07:22:40.074] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [26Jul2025 07:22:47.076] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:25:05.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 07:25:05.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 07:26:11.081] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:26:12.076] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:26:14.078] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:26:15.077] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:26:28.076] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:26:45.083] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:26:51.081] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:27:00.076] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:27:10.025] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:27:10.025] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-768.50, y=208.00, z=-1967.50], To: TheMoonflowerEntity['The Moonflower'/7256, l='ServerLevel[world]', x=-768.91, y=208.00, z=-1968.13] [22.0]
+[26Jul2025 07:27:10.025] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[26Jul2025 07:27:10.851] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 34535
+[26Jul2025 07:27:10.851] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:27:10.851] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-768.10, y=208.56, z=-1966.89], To: TheMoonflowerEntity['The Moonflower'/7256, l='ServerLevel[world]', x=-768.69, y=208.00, z=-1967.77]
+[26Jul2025 07:27:11.751] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 34553
+[26Jul2025 07:27:11.751] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:27:11.751] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-767.37, y=208.00, z=-1967.19], To: TheMoonflowerEntity['The Moonflower'/7256, l='ServerLevel[world]', x=-769.02, y=210.35, z=-1968.53]
+[26Jul2025 07:27:19.093] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:27:21.085] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:27:53.079] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:27:54.085] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:27:55.080] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:27:56.079] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:28:08.079] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:28:32.086] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:29:15.084] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:29:21.077] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:29:27.073] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:29:35.077] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:30:05.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 07:30:05.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 07:30:16.081] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:30:33.078] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:30:34.081] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:30:35.076] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:30:36.077] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:30:45.084] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:31:45.074] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[26Jul2025 07:32:19.556] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:mangrove_hut is being run through DFU (hash 5ce8a23b5c8a45deaa32f3715fcb348d47f91fee9de0386d2639da5533659958), this will cause launch time delays
+[26Jul2025 07:32:21.087] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_4_0 is being run through DFU (hash eecaa8377778272707fe839abdce77bcd7cc724500108e09db447407f7ea8f69), this will cause launch time delays
+[26Jul2025 07:32:21.237] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_straight_0 is being run through DFU (hash 051d47a85168bda4143f1c8413dd8780d358ad8c923f5d0d37b7bbe012caff9c), this will cause launch time delays
+[26Jul2025 07:32:21.262] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_deadend_0 is being run through DFU (hash f4a1c04a06f046a307fad4edb28116ddcc7062a9acca30c9ab79ac5ad960f51f), this will cause launch time delays
+[26Jul2025 07:32:21.270] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:decor/lamp_post is being run through DFU (hash 8cc5c8caf872e81ccb834200b2817942abc101df5c7e33a307a7abedd7e18a75), this will cause launch time delays
+[26Jul2025 07:32:21.274] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/brown_fishing_house is being run through DFU (hash e63cfe0662a0c270304588e47134f77b43c04caf3bfff5e710bcded4b932bf68), this will cause launch time delays
+[26Jul2025 07:32:21.306] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_red_1 is being run through DFU (hash d53bbb3928e2d764af7bc8898e27c81b72a6f0720e8830173b430b1d66b4a987), this will cause launch time delays
+[26Jul2025 07:32:21.315] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_turn_1 is being run through DFU (hash c4859a709b5ba9f6f04e37a06b098c057702e53a4f7803a82f7adbb868150734), this will cause launch time delays
+[26Jul2025 07:32:21.320] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_3_0 is being run through DFU (hash 9d05e2436f8f3610a96912072060734e7b8c34342dd76fa91663108f8c72ff4f), this will cause launch time delays
+[26Jul2025 07:32:21.327] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/red_sorcerer_house is being run through DFU (hash ef66d580570c81657500f714b76eb761de910285571ff0ce36442b14e4bc8948), this will cause launch time delays
+[26Jul2025 07:32:21.339] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_brown_1 is being run through DFU (hash 02bd242eff7f7599bcf0cdb6cbbc2e1b3ee14b7543ed67112e85365b41e6b15a), this will cause launch time delays
+[26Jul2025 07:32:21.346] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_fisherman is being run through DFU (hash 13ec18fc48a4c8c1dedd84ec441aea8d4ea5ffc64c79a64ffe2af136f89bc029), this will cause launch time delays
+[26Jul2025 07:32:21.348] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_nitwit is being run through DFU (hash d9cc3cc9ca3a89a61aa05f0be93abf993cb8502c835ef08d6e9dcc435e6c23f4), this will cause launch time delays
+[26Jul2025 07:32:21.349] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_turn_0 is being run through DFU (hash fdf0b45a333597b9fc3ceafb62462af96222e86d99645b4f58ea83842f6df755), this will cause launch time delays
+[26Jul2025 07:32:21.355] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_sorcerer is being run through DFU (hash 7f62fb30a39d8bf1080e636bb1b7ed3af4d4183fd7583ead35243f043730a85d), this will cause launch time delays
+[26Jul2025 07:32:21.357] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_red_3 is being run through DFU (hash 4652d7c9fa1481b9d210a32140eedc751a797c0d2deb6b6e12f53d4c60955e70), this will cause launch time delays
+[26Jul2025 07:32:21.366] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_brown_3 is being run through DFU (hash 329dd885fd3a26fbf809cc37b74696799bea2e5397a6dd645810261bfbb1055a), this will cause launch time delays
+[26Jul2025 07:32:21.374] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/md_brown_house_1 is being run through DFU (hash 8d7b252355641b426203781d49e484bfe92ff67e955c3bdecc6fb57c2efff89f), this will cause launch time delays
+[26Jul2025 07:32:21.383] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_gardener is being run through DFU (hash 2dea9cb2dfd371ec48dfeae82974292c103c704b4b695e92405a3868e53b70d1), this will cause launch time delays
+[26Jul2025 07:32:21.384] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_deadend_nohouse is being run through DFU (hash b56301dc35866e00256f7b1eeddedc9a7adc956599591ddb1f6e3d4e572f8bc6), this will cause launch time delays
+[26Jul2025 07:32:22.045] [Server thread/DEBUG] [ModernFix/]: Structure mowziesmobs:frostmaw_spawn is being run through DFU (hash 1a197889d263c12966f1abd25989fefe2ef31123d3bbe370dc207a1d953a454a), this will cause launch time delays
+[26Jul2025 07:32:22.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[26Jul2025 07:32:22.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[26Jul2025 07:32:22.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[26Jul2025 07:32:22.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[26Jul2025 07:32:22.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[26Jul2025 07:32:22.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[26Jul2025 07:32:24.410] [Server thread/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:pumkin_evil is being run through DFU (hash 7d7eb33361e372cbc1873e0befeb6c97ac5ab6b5246ef824001c5de83c494e4b), this will cause launch time delays
+[26Jul2025 07:32:25.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[26Jul2025 07:32:25.976] [Server thread/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_11 is being run through DFU (hash e13973044bf6be999c0861141e571cc165bc9d074c53dd2162990aaac762d503), this will cause launch time delays
+[26Jul2025 07:32:32.189] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 40953
+[26Jul2025 07:32:32.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:32.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1128.71, y=161.00, z=-3273.33], To: ScarletPersecutorEntity['Scarlet Persecutor'/8235, l='ServerLevel[world]', x=-1131.33, y=162.23, z=-3273.51]
+[26Jul2025 07:32:33.280] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 40975
+[26Jul2025 07:32:33.280] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:33.281] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1127.69, y=161.00, z=-3273.32], To: ScarletPersecutorEntity['Scarlet Persecutor'/8235, l='ServerLevel[world]', x=-1128.98, y=161.00, z=-3273.51]
+[26Jul2025 07:32:34.210] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 40993
+[26Jul2025 07:32:34.210] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:34.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1125.23, y=161.00, z=-3273.31], To: ScarletPersecutorEntity['Scarlet Persecutor'/8235, l='ServerLevel[world]', x=-1125.78, y=161.00, z=-3273.49]
+[26Jul2025 07:32:35.688] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 41023
+[26Jul2025 07:32:35.689] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:35.689] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1126.11, y=161.00, z=-3273.14], To: ScarletPersecutorEntity['Scarlet Persecutor'/8238, l='ServerLevel[world]', x=-1126.91, y=161.55, z=-3272.70]
+[26Jul2025 07:32:39.677] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 41102
+[26Jul2025 07:32:39.678] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:39.678] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1126.91, y=161.00, z=-3273.01], To: ScarletPersecutorEntity['Scarlet Persecutor'/8238, l='ServerLevel[world]', x=-1126.13, y=163.18, z=-3272.66]
+[26Jul2025 07:32:42.132] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 41152
+[26Jul2025 07:32:42.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:42.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1128.51, y=161.00, z=-3272.60], To: ScarletPersecutorEntity['Scarlet Persecutor'/8236, l='ServerLevel[world]', x=-1129.32, y=162.03, z=-3272.09]
+[26Jul2025 07:32:42.778] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 41165
+[26Jul2025 07:32:42.779] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:42.779] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1129.44, y=161.00, z=-3272.40], To: ScarletPersecutorEntity['Scarlet Persecutor'/8236, l='ServerLevel[world]', x=-1129.56, y=161.42, z=-3272.06]
+[26Jul2025 07:32:48.282] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 41275
+[26Jul2025 07:32:48.282] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:48.282] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1140.45, y=161.00, z=-3272.01], To: ScarletPersecutorEntity['Scarlet Persecutor'/8237, l='ServerLevel[world]', x=-1166.04, y=162.00, z=-3273.50]
+[26Jul2025 07:32:49.634] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 41302
+[26Jul2025 07:32:49.635] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:32:49.635] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1142.40, y=161.00, z=-3272.05], To: ScarletPersecutorEntity['Scarlet Persecutor'/8237, l='ServerLevel[world]', x=-1166.04, y=162.01, z=-3273.50]
+[26Jul2025 07:32:57.764] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[26Jul2025 07:33:19.902] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/campfire is being run through DFU (hash 49af54bcbd5f2b62943c2d30e00fb0cfde7bce23e5be000ab3e40aa2ebd3dda2), this will cause launch time delays
+[26Jul2025 07:33:19.915] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/path1 is being run through DFU (hash 1ecc9e8b5b2f99e98383098eee1449e5cdf4cc1f36bbbbe6ed2f338961cba53f), this will cause launch time delays
+[26Jul2025 07:33:19.922] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/path2 is being run through DFU (hash 76e1e2e576157293911c3af7236ca08a0c8a1a61e46a1a61fe6699627d06304e), this will cause launch time delays
+[26Jul2025 07:33:19.931] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/gate_open is being run through DFU (hash 924339ed4fae015fc59d94e926f74933c9dbfea6e89257ba7c6de3dcab37c4f2), this will cause launch time delays
+[26Jul2025 07:33:19.940] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/gate_closed is being run through DFU (hash d76abd4d45273c7a6c26c1a5707789cee28dad043de3984788273fda4050092d), this will cause launch time delays
+[26Jul2025 07:33:19.948] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/palisade/1x2a is being run through DFU (hash f618001b58e3f3abae6be7dfa0e81dbe037384b18c560dca348c431bef8b9a0b), this will cause launch time delays
+[26Jul2025 07:33:19.962] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/palisade/2x1a is being run through DFU (hash ad2be56dbe68613a5be4b6d19de0cd56a3732c836edbffa1be380064fa21b7a1), this will cause launch time delays
+[26Jul2025 07:33:19.971] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/archer_tower is being run through DFU (hash 14adeb1dfd82617a1f830a416d357eaa4d3f94798710e192142c49584e4390cb), this will cause launch time delays
+[26Jul2025 07:33:19.979] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/palisade/1x1c is being run through DFU (hash 906d37584c30d09363a5b1f6d403ac231811ea0d8fe7247d14aa9006daec09c0), this will cause launch time delays
+[26Jul2025 07:33:19.984] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/small_tent is being run through DFU (hash 8fc3d6af03516754dad77dbaa760aef8cd9a642e94de9c989eda59fe8f4c135b), this will cause launch time delays
+[26Jul2025 07:33:19.992] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/palisade/1x1d is being run through DFU (hash 3543f7a61ee7f694956d012e3c95ddc0b97aaded3ddbd7c04dc390e5578cb97a), this will cause launch time delays
+[26Jul2025 07:33:19.997] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/livestock is being run through DFU (hash 94f0c3f2c764f0f1201acbcd1d4171f02742d601307ef86be20f0a4eab44dac1), this will cause launch time delays
+[26Jul2025 07:33:20.012] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/palisade/1x1a is being run through DFU (hash 200cdf3cb47a2afa4f9790caead657c54d41584688325cfe68c0e209a5d2b95d), this will cause launch time delays
+[26Jul2025 07:33:20.019] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/palisade/1x2d is being run through DFU (hash 30abb4cea310cc01c012be4316a7255aee6092415f84c6c1bd2e6793344b9c29), this will cause launch time delays
+[26Jul2025 07:33:20.026] [Server thread/DEBUG] [ModernFix/]: Structure takesapillage:pillager_camp/palisade/2x1b is being run through DFU (hash 29bc8265bc8298d60f68293cad7f585f6468fd951afc71bb656fdcfa9b134566), this will cause launch time delays
+[26Jul2025 07:33:22.407] [Server thread/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_04 is being run through DFU (hash 292045c39a7bf9e7665c20db773c2ed653685b8391f044e5b35fb53cb71b9832), this will cause launch time delays
+[26Jul2025 07:33:23.010] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 41969
+[26Jul2025 07:33:23.011] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:23.011] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1149.68, y=161.00, z=-3298.08], To: Ignited_Berserker_Entity['Ignited Berserker'/8770, l='ServerLevel[world]', x=-1147.58, y=161.00, z=-3298.56]
+[26Jul2025 07:33:26.138] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42032
+[26Jul2025 07:33:26.138] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:26.138] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1149.57, y=161.00, z=-3296.43], To: Ignited_Berserker_Entity['Ignited Berserker'/8770, l='ServerLevel[world]', x=-1148.77, y=161.00, z=-3295.81]
+[26Jul2025 07:33:29.085] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42091
+[26Jul2025 07:33:29.085] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:29.085] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1142.81, y=161.00, z=-3295.78], To: ArchevokerEntity['Archevoker'/8773, l='ServerLevel[world]', x=-1141.17, y=161.00, z=-3298.54]
+[26Jul2025 07:33:34.535] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42200
+[26Jul2025 07:33:34.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:34.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1142.29, y=161.00, z=-3296.04], To: ArchevokerEntity['Archevoker'/8773, l='ServerLevel[world]', x=-1140.38, y=161.00, z=-3298.16]
+[26Jul2025 07:33:36.556] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42240
+[26Jul2025 07:33:36.557] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:36.557] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1141.58, y=161.00, z=-3300.67], To: Blaze['Blaze'/8787, l='ServerLevel[world]', x=-1143.82, y=161.05, z=-3301.50]
+[26Jul2025 07:33:36.558] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[26Jul2025 07:33:45.885] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42427
+[26Jul2025 07:33:45.885] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:45.886] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1159.35, y=161.00, z=-3278.13], To: Ignited_Berserker_Entity['Ignited Berserker'/8769, l='ServerLevel[world]', x=-1171.54, y=161.00, z=-3262.52]
+[26Jul2025 07:33:48.391] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42477
+[26Jul2025 07:33:48.392] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:48.392] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1169.13, y=161.00, z=-3265.66], To: Ignited_Berserker_Entity['Ignited Berserker'/8769, l='ServerLevel[world]', x=-1170.49, y=161.00, z=-3263.97]
+[26Jul2025 07:33:51.090] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42531
+[26Jul2025 07:33:51.090] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:51.091] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1175.85, y=161.80, z=-3259.70], To: ZombieClownEntity['Zombie Clown'/8776, l='ServerLevel[world]', x=-1176.19, y=161.00, z=-3257.81]
+[26Jul2025 07:33:54.978] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:33:54.978] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1171.78, y=161.00, z=-3245.86], To: Elite_Draugr_Entity['Elite Draugr'/8782, l='ServerLevel[world]', x=-1171.45, y=161.00, z=-3245.44] [18.96154]
+[26Jul2025 07:33:54.978] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[26Jul2025 07:33:55.229] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:33:55.229] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1172.46, y=161.47, z=-3246.29], To: Vindicator['Vindicator'/8778, l='ServerLevel[world]', x=-1171.65, y=161.00, z=-3246.35] [15.0]
+[26Jul2025 07:33:55.229] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[26Jul2025 07:33:55.986] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:33:55.986] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1175.39, y=161.00, z=-3249.01], To: ArchevokerEntity['Archevoker'/8786, l='ServerLevel[world]', x=-1164.63, y=161.00, z=-3250.89] [59.197834]
+[26Jul2025 07:33:55.986] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.6845499
+[26Jul2025 07:33:58.160] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42672
+[26Jul2025 07:33:58.161] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:33:58.161] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1178.11, y=161.00, z=-3251.38], To: Vindicator['Vindicator'/8778, l='ServerLevel[world]', x=-1177.20, y=161.00, z=-3250.43]
+[26Jul2025 07:33:58.889] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:33:58.890] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1179.04, y=161.00, z=-3252.10], To: EctoSlab['Ecto Slab'/8785, l='ServerLevel[world]', x=-1177.34, y=161.00, z=-3250.82] [15.522727]
+[26Jul2025 07:33:58.890] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[26Jul2025 07:34:02.235] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42754
+[26Jul2025 07:34:02.235] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:02.235] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1185.04, y=161.00, z=-3253.71], To: Vindicator['Vindicator'/8779, l='ServerLevel[world]', x=-1183.85, y=161.00, z=-3252.14]
+[26Jul2025 07:34:07.229] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:07.229] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1186.42, y=161.00, z=-3260.07], To: Ignited_Berserker_Entity['Ignited Berserker'/8771, l='ServerLevel[world]', x=-1184.28, y=161.00, z=-3259.35] [58.715267]
+[26Jul2025 07:34:07.229] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[26Jul2025 07:34:07.335] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42856
+[26Jul2025 07:34:07.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:07.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1186.72, y=161.00, z=-3260.05], To: Royal_Draugr_Entity['Royal Draugr'/8784, l='ServerLevel[world]', x=-1185.11, y=161.00, z=-3258.98]
+[26Jul2025 07:34:07.628] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:07.628] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1188.26, y=161.60, z=-3260.35], To: Ignited_Berserker_Entity['Ignited Berserker'/8771, l='ServerLevel[world]', x=-1186.15, y=161.00, z=-3260.25] [60.715267]
+[26Jul2025 07:34:07.628] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[26Jul2025 07:34:07.726] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:07.726] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1188.82, y=161.43, z=-3260.54], To: KeeperEntity['Ancient Knight'/8772, l='ServerLevel[world]', x=-1188.36, y=161.18, z=-3260.24] [58.541668]
+[26Jul2025 07:34:07.727] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.1875
+[26Jul2025 07:34:08.132] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:08.132] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1191.31, y=161.00, z=-3261.23], To: Ignited_Berserker_Entity['Ignited Berserker'/8771, l='ServerLevel[world]', x=-1190.51, y=161.00, z=-3261.00] [63.986103]
+[26Jul2025 07:34:08.132] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[26Jul2025 07:34:11.557] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 42940
+[26Jul2025 07:34:11.558] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:11.558] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1196.00, y=161.00, z=-3269.69], To: KeeperEntity['Ancient Knight'/8772, l='ServerLevel[world]', x=-1195.34, y=161.00, z=-3267.56]
+[26Jul2025 07:34:14.530] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:14.530] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1197.62, y=162.36, z=-3271.61], To: ApothecaristEntity['Apothecarist'/8790, l='ServerLevel[world]', x=-1189.84, y=161.00, z=-3270.89] [47.27776]
+[26Jul2025 07:34:14.530] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[26Jul2025 07:34:14.560] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43000
+[26Jul2025 07:34:14.560] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:14.560] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1197.64, y=161.80, z=-3271.71], To: KeeperEntity['Ancient Knight'/8772, l='ServerLevel[world]', x=-1198.24, y=161.00, z=-3270.36]
+[26Jul2025 07:34:15.430] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:15.430] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1199.72, y=163.28, z=-3272.46], To: Ignited_Berserker_Entity['Ignited Berserker'/8771, l='ServerLevel[world]', x=-1198.23, y=161.00, z=-3271.85] [65.0]
+[26Jul2025 07:34:15.430] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[26Jul2025 07:34:15.711] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43023
+[26Jul2025 07:34:15.712] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:15.712] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1200.04, y=161.00, z=-3272.73], To: Ignited_Berserker_Entity['Ignited Berserker'/8771, l='ServerLevel[world]', x=-1198.91, y=161.00, z=-3272.25]
+[26Jul2025 07:34:16.339] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43036
+[26Jul2025 07:34:16.340] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:16.340] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1200.49, y=161.00, z=-3273.69], To: Ignited_Berserker_Entity['Ignited Berserker'/8771, l='ServerLevel[world]', x=-1198.83, y=161.00, z=-3272.84]
+[26Jul2025 07:34:16.342] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43036
+[26Jul2025 07:34:16.342] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:16.343] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1200.49, y=161.00, z=-3273.69], To: SummonedVex['Summoned Vex'/9506, l='ServerLevel[world]', x=-1200.40, y=162.76, z=-3274.06]
+[26Jul2025 07:34:19.932] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43108
+[26Jul2025 07:34:19.932] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:19.932] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1196.51, y=161.00, z=-3276.67], To: ZombieClownEntity['Zombie Clown'/8774, l='ServerLevel[world]', x=-1197.97, y=161.00, z=-3274.68]
+[26Jul2025 07:34:20.540] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43120
+[26Jul2025 07:34:20.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:20.541] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1198.55, y=161.00, z=-3276.60], To: ZombieClownEntity['Zombie Clown'/8775, l='ServerLevel[world]', x=-1197.95, y=161.00, z=-3274.62]
+[26Jul2025 07:34:23.685] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:23.686] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1199.72, y=163.69, z=-3275.84], To: ApothecaristEntity['Apothecarist'/8790, l='ServerLevel[world]', x=-1194.34, y=161.00, z=-3271.32] [46.597202]
+[26Jul2025 07:34:23.686] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.225
+[26Jul2025 07:34:24.287] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:24.287] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1200.04, y=164.23, z=-3276.61], To: ArchevokerEntity['Archevoker'/8786, l='ServerLevel[world]', x=-1185.86, y=161.00, z=-3268.24] [58.335335]
+[26Jul2025 07:34:24.287] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.8112499
+[26Jul2025 07:34:24.753] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43204
+[26Jul2025 07:34:24.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:24.754] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1201.69, y=161.00, z=-3277.70], To: EctoSlab['Ecto Slab'/8785, l='ServerLevel[world]', x=-1200.62, y=161.00, z=-3276.95]
+[26Jul2025 07:34:26.833] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:26.833] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1198.36, y=161.00, z=-3278.08], To: ApothecaristEntity['Apothecarist'/8790, l='ServerLevel[world]', x=-1192.76, y=161.00, z=-3276.08] [46.01387]
+[26Jul2025 07:34:26.833] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[26Jul2025 07:34:30.280] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:30.281] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1191.15, y=161.00, z=-3280.75], To: ArchevokerEntity['Archevoker'/8786, l='ServerLevel[world]', x=-1189.99, y=161.00, z=-3268.01] [57.472836]
+[26Jul2025 07:34:30.281] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.8112499
+[26Jul2025 07:34:33.182] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[26Jul2025 07:34:33.182] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1193.92, y=161.00, z=-3287.44], To: ArchevokerEntity['Archevoker'/8786, l='ServerLevel[world]', x=-1187.26, y=161.00, z=-3275.91] [56.460835]
+[26Jul2025 07:34:33.182] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.1252
+[26Jul2025 07:34:35.389] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43417
+[26Jul2025 07:34:35.390] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:35.390] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1195.56, y=161.00, z=-3282.45], To: ApothecaristEntity['Apothecarist'/8790, l='ServerLevel[world]', x=-1197.26, y=161.00, z=-3280.93]
+[26Jul2025 07:34:38.483] [Server thread/INFO] [STDOUT/]: [com.skydude.dacxirons.OverrideRogueLogic:onLivingHurt:29]: [OverrideRogueLogic] Registered hit for player Lance at tick 43479
+[26Jul2025 07:34:38.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[26Jul2025 07:34:38.483] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/2059, l='ServerLevel[world]', x=-1198.32, y=162.64, z=-3269.95], To: ApothecaristEntity['Apothecarist'/8790, l='ServerLevel[world]', x=-1196.10, y=161.00, z=-3271.22]

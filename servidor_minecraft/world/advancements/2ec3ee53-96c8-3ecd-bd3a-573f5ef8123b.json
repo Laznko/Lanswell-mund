@@ -15377,6 +15377,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-07-26 07:27:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_bath": {
     "criteria": {
       "has_blue_dye": "2025-07-26 07:08:55 +0000"
@@ -15470,6 +15476,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
     "criteria": {
       "has_purple_dye": "2025-07-26 07:08:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-07-26 07:27:07 +0000"
     },
     "done": true
   },
